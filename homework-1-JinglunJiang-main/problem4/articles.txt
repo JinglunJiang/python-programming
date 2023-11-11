@@ -1,0 +1,1170 @@
+Google is shutting down Stadia, its cloud gaming service. The service will remain live for players until January 18th, 2023. Google will be refunding all Stadia hardware purchased through the Google Store as well as all the games and add-on content purchased from the Stadia store. Google expects those refunds will be completed in mid-January.
+
+"A few years ago, we also launched a consumer gaming service, Stadia," Stadia vice president and GM Phil Harrison said in a blog post. "And while Stadia’s approach to streaming games for consumers was built on a strong technology foundation, it hasn’t gained the traction with users that we expected so we’ve made the difficult decision to begin winding down our Stadia streaming service." Employees on the Stadia team will be distributed to other parts of the company.
+A person holds a controller with a smartphone attached. The phone is playing a game from Stadia, Google’s cloud gaming service.
+Stadia, from our initial review in 2019. Photo by Amelia Holowaty Krales / The Verge
+
+Harrison says Google sees opportunities to apply Stadia’s technology to other parts of Google, like YouTube, Google Play, and its AR efforts, and the company also plans to "make it available to our industry partners, which aligns with where we see the future of gaming headed," he wrote.
+
+Google detailed some of the finer points of the shutdown in an FAQ. Refunds will automatically be made through the Google and Stadia stores, and you won’t have to return any hardware. Stadia Pro subscriptions will not be eligible for a refund, but you will not be charged during the shutdown period and can access games you might have redeemed as a Pro user until everything is wound down. Google has closed the Stadia store, so you can’t buy games or in-game transactions.
+
+Stadia has been facing rumors of its demise practically from the start
+
+The writing has been on the wall for Stadia for a while now, most recently when Logitech announced its new cloud gaming handheld last week and Stadia was one of the few cloud gaming services not mentioned. But Stadia has been facing rumors of its demise practically from the start. Google has a habit of killing projects only a few years after they launch, and Stadia, a cloud gaming service from a company with few ties in the gaming industry, seemed like a prime candidate for an early demise.
+
+Last year, rumors abounded it would shut down after the number of games released to the platform slowed and the company shuttered its in-house game development studios. When those rumors popped up again this year, Google insisted that Stadia was not shutting down. "Rest assured we’re always working bringing more great games to the platform and Stadia Pro," the company said in a tweet. Which was true... until today.
+
+Microsoft, which has also invested heavily in cloud gaming, declined to comment. Nvidia (which makes the GeForce Now cloud gaming service) and AT&T (which used the Stadia tech to power a couple game trials) didn’t immediately respond to requests for comment.
+Related
+
+We’ve known the PlayStation VR 2 was coming for a while, but we finally got to try four games on Sony’s second-gen VR gaming system. Not only is the hardware is streamlined, but the gameplay is also much more immersive. We just wish it wasn’t tethered.
+Most Popular
+
+By submitting your email, you agree to our Terms and Privacy Notice. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+More from this stream The Google graveyard: all the products Google has shut down
+
+Google’s Snapshot feature, which was introduced back in 2018 and occasionally (but not often) updated, is finally gone, according to an article at 9to5Google.
+
+The Android feature, which could be accessed via a small and easily overlooked inbox icon on the Assistant screen, would show all your current information via a scrollable interface — things such as appointments, weather forecasts, traffic, and reminders. It was a small but useful feature — unfortunately, though, it was also not easy to find unless you knew where to look. As a result, it’s probable that not many Android users actually knew about it.
+
+So it was almost inevitable that Google would eventually announce that Snapshot was going to be sunsetted — which it did when it began running notices within the app back in March. And now 9to5Google is reporting that the feature seems to have disappeared completely from Android phones. (Certainly, it’s not on my Pixel 6 phone running Android 12, although it was still available on my original Pixel running Android 10.)
+
+Google has been trying out apps meant to gather and present us with our personal information for years. It created Google Now back in 2012 to act as a comprehensive digital personal assistant; that app was slowly phased out over the years in favor of the much more interactive (and verbal) Google Assistant, and its collections of visual info were (sort of) replaced by Snapshot.
+
+You can now count Snapshot as one with all the other Google apps that have gone to their graves. If you are a Snapshot fan and want to get the information that used to be available, Google has published a support page with the various places you can find that data. Or you can simply say "Hey, Google, what do I have scheduled for today?"
+
+The American National Corpus (ANC) is a text corpus of American English containing 22 million words of written and spoken data produced since 1990. Currently, the ANC includes a range of genres, including emerging genres such as email, tweets, and web data that are not included in earlier corpora such as the British National Corpus. It is annotated for part of speech and lemma, shallow parse, and named entities.
+
+The ANC is available from the Linguistic Data Consortium. A fifteen million word subset of the corpus, called the Open American National Corpus (OANC), is freely available with no restrictions on its use from the ANC Website.
+
+The corpus and its annotations are provided according to the specifications of ISO/TC 37 SC4's Linguistic Annotation Framework. By using a freely provided transduction tool (ANC2Go), the corpus and user-chosen annotations are provided in multiple formats, including CoNLL IOB format, the XML format conformant to the XML Corpus Encoding Standard (XCES) (usable with the British National Corpus's XAIRA search engine), a UIMA-compliant format, and formats suitable for input to a wide variety of concordance software. Plugins to import the annotations into General Architecture for Text Engineering (GATE) are also available.
+
+The ANC differs from other corpora of English because it is richly annotated, including different part of speech annotations (Penn tags, CLAWS5 and CLAWS7 tags), shallow parse annotations, and annotations for several types of named entities. Additional annotations are added to all or parts of the corpus as they become available, often by contributions from other projects. Unlike on-line searchable corpora, which due to copyright restrictions allow access only to individual sentences, the entire ANC is available to enable research involving, for example, development of statistical language models and full-text linguistic annotation.
+
+ANC annotations are automatically produced and unvalidated. A 500,000 word subset called the Manually Annotated Sub-Corpus (MASC) is annotated for approximately 20 different kinds of linguistic annotations, all of which have been hand-validated or manually produced. These include Penn Treebank syntactic annotation, WordNet sense annotation, FrameNet semantic frame annotations, among others. Like the OANC, MASC is freely available for any use, and can be downloaded from the ANC site or from the Linguistic Data Consortium. It is also distributed in part-of-speech tagged form with the Natural Language Toolkit.
+
+The ANC and its sub-corpora differ from similar corpora primarily in the range of linguistic annotations provided and the inclusion of modern genres that do not appear in resources like the British National Corpus. Also, because the initial target use of the corpora was the development of statistical language models, the full data and all annotations are available, thus differing from the Corpus of Contemporary American English (COCA) which is available only selectively through a web browser.
+
+Continued growth of the OANC and MASC relies on contributions of data and annotations from the computational linguistics and corpus linguistics communities. 
+
+Ian has intensified into a hurricane again with maximum sustained winds of 75 mph, according to the 5 p.m. ET update from the National Hurricane Center.
+
+Hurricane Ian is located about 240 miles south of Charleston, South Carolina, and is moving toward the north-northeast at 10 mph. 
+
+    "On the forecast track, Ian will approach the coast of South Carolina on Friday," the hurricane center said. "The center will move farther inland across the Carolinas Friday night and Saturday."
+
+Some intensification is expected with Ian over the warm waters of the Gulf Stream, but it is expected to remain a Category 1 storm.
+
+Storm surge is anticipated to reach between 4 to 7 feet in South Carolina from Edisto Beach to Murrells Inlet, including Charleston.
+
+Ian’s large wind field is expected to produce impacts well away from the center, and the forecast track has more uncertainty than normal because of the storm is disorganized after passing over Florida. 
+
+ "Star Wars" star Mark Hamill has been made an ambassador for the UNITED24 fundraising platform, where he will work in support of the Army of Drones project to benefit Ukraine.
+
+His introduction as an ambassador took place during an online call on Thursday with Ukrainian President Volodymyr Zelenskyy, who expressed his gratitude for Hamill’s support since the Russian invasion of Ukraine. 
+
+ "Mark, you have become the first ambassador to help Ukraine raise funds to support its defenders," Zelenskyy said. "For Ukrainians, this means a lot. As in ‘Star Wars,’ good will triumph over evil and light will overcome darkness. With you in the team, there’s no other way around it."
+
+"In this long and unequal fight, Ukraine needs continuous additional support. That’s why I was honored President Zelenskyy asked me to become an ambassador for the Army of Drones," Hamill said in a statement.
+
+ "I know for certain that Ukrainians need drones to protect their land, their freedom and the values of the entire democratic world," he added. "Right now is the best time for everyone to come together and help Ukraine stand up in this war with the evil empire."
+
+Hamill also tweeted about it on Thursday.
+
+"Honored to be an Ambassador for the Army of Drones and to help President Zelenskyy and the people of Ukraine in any way possible," he wrote.
+
+The Army of Drones project is a program of the fundraising platform UNITED24, Ukraine’s General Staff of the Armed Forces, the Ministry of Digital Transformation and the State Special Communications Service, which provides for the regular procurement of drones, their repair and prompt replacement, and pilot training.
+
+ A new treatment for amyotrophic lateral sclerosis, or ALS, has been approved by the US Food and Drug Administration.
+
+The FDA announced approval of Relyvrio, developed by Amylyx Pharmaceuticals, on Thursday. The oral medication works as a standalone therapy or when added to other treatments, according to the company, and it has been shown to slow disease progression.
+Dr Rick Bedlack with ALS patient Matt Teasdale
+
+He wants to believe: Doctor searching for rare ALS reversals
+
+"This approval provides another important treatment option for ALS, a life-threatening disease that currently has no cure," Dr. Billy Dunn, director of the Office of Neuroscience in the FDA’s Center for Drug Evaluation and Research, said in a statement.
+
+Patients and some advocacy groups had urged the FDA to approve the drug, as there are limited treatments available for ALS, and the agency granted priority review in December.
+
+ALS, also known as Lou Gehrig’s disease, affects as many as 30,000 people in the United States. It’s a neurodegenerative disease that causes muscles to weaken, eventually affecting the ability to speak, swallow, move and breathe.
+
+"ALS is a horrific disease: rapidly fatal and really debilitating during the period from initial symptoms to death. FDA has approved a couple of treatments, but they are minimally effective and certainly not a cure. And so, there’s a vast unmet need in this disease area, which FDA has acknowledged," said Holly Fernandez Lynch, an assistant professor of medical ethics and health policy at the University of Pennsylvania.
+01 biden supply chain 1222
+
+Biden says bipartisan legislation funding ALS research 'represents the spirit of the season'
+
+Ahead of the FDA decision, Lynch told CNN that she would be "shocked" if the drug did not get approved because the FDA’s Peripheral and Central Nervous System Drugs Advisory Committee made a shift in its opinion of the drug at a meeting this month, voting 7-2 in favor of approval.
+
+In November, Amylyx submitted a drug application to the FDA for the medication, then called AMX0035, as an oral ALS treatment, seeking approval based on a Phase 2 trial that included 137 people with ALS who received either the drug or a placebo for 24 weeks. The study was funded in part by a grant from the ALS Ice Bucket Challenge, the viral social media campaign that started in 2014 involving people dumping buckets of ice water over themselves to raise awareness and money around ALS.
+
+The trial also showed that the drug was generally well-tolerated, but there was a greater frequency of gastrointestinal events in the group getting the medication. Amylyx is now continuing to study its safety and efficacy in a Phase 3 trial.
+
+In March, the Peripheral and Central Nervous System Drugs Advisory Committee voted 6-4 that a single Phase 2 trial did not establish the conclusion that the drug is effective in treating ALS.
+hm what is als_00003404.jpg
+
+What is ALS, the condition Stephen Hawking lived with for over 5 decades?
+
+"In terms of establishing the conclusion that it’s effective, we were asked to look for substantial evidence with persuasiveness and robustness and I think this one trial doesn’t quite meet that bar," Dr. Kenneth Fischbeck, one of the committee members and an investigator at the National Institutes of Health, said at the March meeting. Fischbeck added that he has cared for ALS patients.
+
+One key difference between the FDA advisory committee’s March and September meetings is that in the later meeting, Amylyx indicated that if the drug was approved but its Phase 3 trial results fail to confirm the drug’s benefits, the company would consider withdrawing the drug from the market, Lynch said. She added, however, that the company didn’t say specifically what it would view as a failure.
+
+"So at the vote, the advisory committee members switched, and most of them said, ‘Yes, we are now convinced that this product should be approved.’ And when they were asked why they changed their minds, some of them said, ‘Well, the company said they would withdraw,’ " she said. "And they were also convinced by patients’ testimonies that they very much want to try this drug."
+
+But overall, the FDA’s approval was based on Phase 2 trial data, which, Lynch said, may send a message to other pharmaceutical companies that they don’t need robust Phase 3 trial data to get products on the market.
+
+Lynch said that although she understands why people with ALS want access to this promising drug, she has concerns that such a message could open the door more broadly to the approval of medications that have not been proved to work. The FDA could later withdraw those products if needed, she said, but doing so without voluntary company agreement is "a huge pain" and often requires a very lengthy process.
+Get CNN Health's weekly newsletter
+
+Sign up here to get The Results Are In with Dr. Sanjay Gupta every Tuesday from the CNN Health team.
+
+As for Relyvrio, some ALS advocacy groups – including the ALS Association – have been rooting for its approval for several months. After the FDA advisory committee meeting in March, when the panel initially voted against the drug, Calaneet Balas, president and CEO of the ALS Association, said in a statement that "FDA has a choice to make – whether it will approve a drug that has been proven safe that will help people living with ALS today, or whether it will delay approval and require more evidence while more people with ALS die."
+
+"We cannot allow perfection to stand in the way of real progress toward turning ALS from a fatal disease into a livable one. The FDA’s own ALS Guidance acknowledges that people with ALS are willing to accept greater risk for the possibility of some benefit," Balas said. "People with ALS and their loved ones deserve better and the FDA has the tools to accomplish this with urgency."
+
+When the physicist Richard Feynman died in 1988, he left a note on his blackboard that read, "What I cannot create, I do not understand." Feynman may have been reflecting on the nature of scientific understanding, but the sentiment also reflects the spirit of synthetic biology. That scientific field is all about deconstructing and precisely manipulating biological processes to test our grasp of them.
+
+"Everyone in synthetic biology loves that quote," said Patrick Shih, a synthetic plant biologist at the University of California, Berkeley. "It’s pretty much the central tenet."
+
+New work in plants marks an important advance toward realizing synthetic biology’s most ambitious goals. A study published last month in Science created a kind of genetic circuit in plant roots, in effect programming how they grow. Stanford University researchers, led by Jennifer Brophy, a bioengineer, and José Dinneny, a plant systems biologist, developed a genetic toolkit to control whether the root systems of two plant species grew more laterally or horizontally and how much the roots branched. Their work confirms genetic models of plant growth and shows for the first time that it’s possible to program functional patterns of gene activity over time in specific tissues of complex organisms.
+
+The new genetic toolkit should be very useful to other synthetic biologists in their own future experiments. However, the results of the researchers’ experiments weren’t as straightforward as Brophy and her colleagues had hoped, showing the challenges of applying digital logic gates to messy living systems.
+Rewiring Root Growth
+Abstractions navigates promising ideas in science and mathematics. Journey with us and join the conversation.
+See all Abstractions blog
+
+Although synthetic biologists have been inserting genetic control systems into bacteria and cultured complex cells for about two decades, technical issues have made it much harder for them to do this with complex multicellular organisms like plants. So to construct their biological circuit, Brophy, Dinneny and their coworkers assembled and refined a suite of molecular tools, including pieces of modified viruses and of bacteria that cause tumors in plants. Synthetic biologists often create the techniques and genetic elements they need as one-offs for specific organisms and experiments, but the Stanford team was more interested in assembling a general-purpose toolkit that can be adapted for different organisms as needed.
+
+With this customizable toolkit, the researchers tailored genetic circuits to their specific organisms. In this case, they used two popular model organisms — Arabidopsis thaliana, a relative of mustard plants, and Nicotiana benthamiana, a cousin of tobacco.
+
+The researchers created synthetic promoter elements that, like on/off switches, would bind to various targeted genes involved in root growth and activate them. They then linked these control elements to one another like Boolean logic gates in a programmable circuit. The controls enabled the researchers to recruit the plant’s own proteins to drive — or inhibit — root growth.
+
+They made the plants express a wide range of programmed root variation, from a sprawling spider web of root hairs to a single, long taproot. Their goal was to demonstrate flexible control, rather than to produce a specific desired result. "It’s a proof of concept," said Olivier Martin, a researcher at the French National Research Institute for Agriculture, Food and Environment who was not involved in the new research.
+
+Control over the growth of root systems could be revolutionary for agriculture, especially in drought-stricken regions, where life may become more dire with ongoing climate change. Crops could be programmed to grow shallow root systems to quickly soak up heavy but infrequent rains, or to send their roots straight down and keep them closely packed together to avoid infringing on a neighbor’s space.
+
+The applications aren’t limited to agriculture. Plants are "nature’s chemists," Martin said. "They produce an incredible diversity of compounds." Harnessing that ability through synthetic biology could enable researchers to produce new pharmaceuticals at a large scale.
+Fighting Inconsistency
+
+But the fruits of synthetic plant biology aren’t ready to hit the farmers market or drugstore shelves just yet. Even though most of the plants in the Stanford experiments behaved in accordance with their programming, their gene expression was not quite as black and white as the researchers had hoped. "Even calling it Boolean or digital is tough because the ‘off’ states are not completely off, and the ‘on’ states are relative," Brophy said.
+
+Things like Boolean logic in particular are very useful in contained environments, where you can really control environmental variables. This is a lot harder to do in a natural environment.
+
+Devang Mehta, University of Alberta
+
+In the roots, an "off" state was indicated by a complete root cap, a layer of cells on the tip of a root tendril that prevents further growth. "On" states were simply defined by the presence of a root or rootlet. But the researchers observed that some roots in the "off" state only developed a partial root cap — enough to stop growth after a certain point, but not enough to prevent it altogether. These aberrant expressions cropped up most often when the team applied a logic gate developed for the Nicotiana to an Arabidopsis plant; they tended to disappear after the toolkit was tweaked for Arabidopsis genes.
+
+Although this kind of partial expression adds to the challenges that synthetic biology faces, Shih said that it might have advantages too: It may make plants easier subjects for experimental tests than animals since partial gene expression in animals is often less obvious (and more fatal).
+
+Devang Mehta, a systems biologist at the University of Alberta in Canada who was not involved in the study, calls Brophy and Dinneny’s research a "big step forward" in organismal synthetic biology. However, he cautions that we shouldn’t underestimate how challenging the next step will be.
+Related:
+
+    Simple Gene Circuits Hint at How Stem Cells Find New Identities
+    Biologists Rethink the Logic Behind Cells’ Molecular Signals
+    Soil’s Microbial Market Shows the Ruthless Side of Forests
+
+"Things like Boolean logic in particular are very useful in contained environments, where you can really control environmental variables," said Mehta. "This is a lot harder to do in a natural environment."
+
+That’s because plants and other living things are highly responsive to their environment in ways that computers aren’t, which complicates the challenge of programming them with reliable genetic circuits. Brophy contrasts them to a calculator, for which 2 plus 2 equals 4 every time. "It would be problematic if 2 plus 2 equaled 3 when it was cold, and 5 when it was too bright," she said. To implement a Boolean gene circuit in crops like corn or wheat growing in a field, synthetic biologists must either devise a way to control the weather or, more realistically, prevent the plants from responding as strongly to heat, cold and rain.
+
+"That’s an important limitation that the field needs to be very upfront about," Shih said. He sees Brophy and Dinneny’s work as a preliminary road map for addressing this challenge. "Now we can see which [tools] work, and which ones don’t."
+
+Editors note: As an HHMI-Simons Faculty scholar, Dinneny has received funding from the Simons Foundation, which also supports Quanta, this editorially independent magazine of science journalism.
+Share this article
+Copied!
+ 
+
+At the end of the Marvel blockbuster Avengers: Endgame, a pre-recorded hologram of Tony Stark bids farewell to his young daughter by saying, "I love you 3,000." The touching moment echoes an earlier scene in which the two are engaged in the playful bedtime ritual of quantifying their love for each other. According to Robert Downey Jr., the actor who plays Stark, the line was inspired by similar exchanges with his own children.
+
+The game can be a fun way to explore large numbers:
+
+"I love you 10."
+
+"But I love you 100."
+
+"Well, I love you 101!"
+
+This is precisely how "googolplex" became a popular word in my home. But we all know where this argument ultimately leads:
+
+"I love you infinity!"
+
+"Oh yeah? I love you infinity plus 1!"
+
+Quantized Academy
+
+Patrick Honner, a nationally recognized high school teacher from Brooklyn, New York, introduces basic concepts from the latest mathematical research.
+
+A comfortable retirement is a lifelong goal common to people of almost any age, in any profession, and from every state.
+
+But that isn’t to say retirement has equal value across state lines. Taxes, cost of living, and even climate give certain states an upper hand when it comes to retirement; the same income and investments can have much different values in different parts of the country. Today, we’re ranking the top states that can be ideal for retirement.
+
+Before making any plans, we recommend speaking with a financial advisor, who can help you find the state that makes the most sense for your financial situation. Our free quiz can match you with up to three fiduciary advisors in just a few minutes, each obligated to work in your best interest.
+
+The value of working with a financial advisor varies by person and advisors are legally prohibited from promising returns. However, research suggests people who work with a financial advisor feel more at ease about their finances and could end up with about 15% more money to spend in retirement.1
+Best States for Minimizing Taxes in Retirement
+
+If shrinking your tax liability is high on your list of priorities, a few states stand out. The winners on our list below either have no state income tax, no tax on retirement income, or a substantial discount on the taxes levied on retirement income. But that’s just the start.
+
+While several additional states have no state income tax, the states that made our list also have favorable sales, property, inheritance, and estate taxes.
+
+    Alaska
+    Florida
+    Georgia
+    Mississippi
+    Nevada
+    South Dakota
+    Wyoming
+
+If those seven locations aren’t ideal, consider the next tier of tax-friendly states. Tax benefits aren’t quite as high as those above, but they do stand out in one specific category: no taxes on social security income.
+
+That’s not to say they don’t make up for it in other areas, however. Washington State, for example, has no state income tax, but does have a 6.5% state sales tax. Still, it’s always beneficial to avoid income tax when possible.
+
+    Alabama
+    Arkansas
+    Colorado
+    Delaware
+    Idaho
+    Illinois
+    Kentucky
+    Louisiana
+    Michigan
+
+    New Hampshire
+    Oklahoma
+    Pennsylvania
+    South Carolina
+    Tennessee
+    Texas
+    Virginia
+    Washington
+    West Virginia
+
+Empowering people to make smart financial decisions.
+Logotype
+features
+Top States Favored by Retirees
+
+While Alaska may have favorable tax policies, lounging in Anchorage may not be your idea of a relaxing retirement. To uncover where retirees actually want to live, let’s dive into another set of numbers.
+
+According to the Federal Interagency Forum on Aging Statistics, six states are the standout favorites among the over-65 crowd.2 No other states surpass their density of residents over the age of 65:
+
+    Maine (20.6%)
+    Florida (20.5%)
+    West Virginia (19.9%)
+    Vermont (19.4%)
+    Montana (18.7%)
+    Delaware (18.7%)
+
+Best Overall State for Retiring
+
+Now, let’s compare. By cross-referencing our list of "Best States for Minimizing Taxes in Retirement" with our list of states most densely populated with retirees, we find that only one state makes both lists.
+
+The Sunshine State offers favorable taxes, pleasant climate, and reasonable cost of living.
+The Bottom Line
+
+Wherever your retirement dreams take you, it’s important to keep the above in mind and make the right decision for your financial situation.
+
+A fiduciary financial advisor can help you consider not only the tax implications of a move, but also other factors specific to your situation.
+
+Not sure where to start? We created a free quiz to help Americans find vetted, qualified financial advisors who serve their area.
+
+This quiz asks you a few questions, then matches you with up to three fiduciary financial advisors. You even earn a free consultation with each of your matches, so you can compare them and be fully prepared to pick a financial advisor.
+Click Your State to Get Matched With Financial Advisors Who Serve Your Area
+After you choose your state and answer a few questions, you can compare up to three advisors that serve your area and decide which to work with.
+Take Retirement Quiz
+
+See all Quantized Academy Columns
+
+Whether it’s on the playground or at bedtime, children encounter the concept of infinity long before math class, and they understandably develop a fascination with this mysterious, complicated and important concept. Some of those children grow up to be mathematicians fascinated with infinity, and some of those mathematicians are discovering new and surprising things about infinity.
+
+You might know that some sets of numbers are infinitely large, but did you know that some infinities are bigger than others? And that we’re not sure if there are other infinities sandwiched between the two we know best? Mathematicians have been pondering this second question for at least a century, and some recent work has changed the way people think about the issue.
+
+In order to tackle questions about the size of infinite sets, let’s start with sets that are easier to count. A set is a collection of objects, or elements, and a finite set is just a set that contains finitely many objects.
+
+A jarring divide cleaves modern physics. On one side lies quantum theory, which portrays subatomic particles as probabilistic waves. On the other lies general relativity, Einstein’s theory that space and time can bend, causing gravity. For 90 years, physicists have sought a reconciliation, a more fundamental description of reality that encompasses both quantum mechanics and gravity. But the quest has run up against thorny paradoxes.
+
+Hints are mounting that at least part of the problem lies with a principle at the center of quantum mechanics, an assumption about how the world works that seems so obvious it’s barely worth stating, much less questioning.
+
+Unitarity, as the principle is called, says that something always happens. When particles interact, the probability of all possible outcomes must sum to 100%. Unitarity severely limits how atoms and subatomic particles might evolve from moment to moment. It also ensures that change is a two-way street: Any imaginable event at the quantum scale can be undone, at least on paper. These requirements have long guided physicists as they derive valid quantum formulas. "It’s a very restrictive condition, even though it might seem a little bit trivial at first glance," said Yonatan Kahn, an assistant professor at the University of Illinois.
+
+But what once seemed an essential scaffold may have become a stifling straitjacket preventing physicists from reconciling quantum mechanics and gravity. "Unitarity in quantum gravity is a very open question," said Bianca Dittrich, a theorist at the Perimeter Institute for Theoretical Physics in Waterloo, Canada.
+
+The main problem is that the universe is expanding. This expansion is well described by general relativity. But it means that the future of the cosmos looks totally different from its past, while unitarity demands a tidy symmetry between past and future on the quantum level. "There is a tension there, and it’s something quite puzzling if you think about it," said Steve Giddings, a quantum gravity theorist at the University of California, Santa Barbara.
+
+Concern over this conflict has been in the air for years. But recently, two quantum gravity theorists may have found a way to loosen unitarity’s buckles to better fit our growing cosmos. Andrew Strominger and Jordan Cotler of Harvard University argue that a more relaxed principle called isometry can accommodate an expanding universe while still satisfying the stringent requirements that first made unitary a guiding light.
+
+"You don’t need unitarity," said Strominger. "Unitarity is too strong of a condition."
+
+While many physicists are receptive to the isometry proposal — some have even come to similar conclusions independently — opinions vary as to whether the update is too radical or not radical enough.
+A Fixed Sum
+
+In everyday life, events can’t help but play out in a unitary way. A coin toss, for instance, has a 100% chance of coming up heads or tails.
+
+But a century ago, the pioneers of quantum mechanics made a surprising discovery — one that elevated unitarity from common sense to a hallowed principle. The surprise was that, mathematically, the quantum world operates not by probabilities but by more complicated numbers known as amplitudes. An amplitude is essentially the degree to which a particle is in a certain state; it can be a positive, negative or imaginary number. To calculate the probability of actually observing a particle in a certain state, physicists square the amplitude, which gets rid of the imaginary and negative bits and produces a positive probability. Unitarity says the sum of these probabilities (really, the squares of all the amplitudes) must equal 1.
+
+It’s this twist — the squaring of hidden amplitudes to calculate the outcomes we actually see — that gives unitarity teeth. As a particle’s state changes (as it flies through a magnetic field, say, or collides with another particle), its amplitudes change too. In working out how a particle is allowed to evolve or interact, physicists use the fact that amplitudes never change in a way that disrupts the fixed sum of their squares. In the 1920s, for instance, this unitarity requirement guided the British physicist Paul Dirac to discover an equation that implied the existence of antimatter. "I was not interested in considering any theory which would not fit in with my darling," Dirac wrote, referring to unitarity.
+
+Physicists keep probabilities and amplitudes in line by tracking how the quantum state of a particle moves around in Hilbert space — an abstract space representing all possible states available to the particle. The particle’s amplitudes correspond to its coordinates in Hilbert space, and physicists capture changes to the particle with mathematical objects called matrices, which transform its coordinates. Unitarity dictates that a physically allowed change must correspond to a special "unitary" matrix that rotates the particle’s state in Hilbert space without changing that the sum of the squares of its coordinates equals 1.
+
+It’s a mathematical fact with philosophical consequences: If you know the specific unitary matrix corresponding to some change over time, any quantum state can be swiveled into the future or unswiveled into the past. It will always land on another viable state in the Hilbert space, which never grows or shrinks. "The past completely determines the future, and the future completely determines the past," said Cotler. "It’s related to the statement that information is neither created nor destroyed."
+
+And yet, this bedrock assumption seems to conflict with the universe that surrounds us.
+A Cosmic Clash
+
+Galaxies are flying ever farther apart. While our expanding universe is a perfectly valid solution to the equations of general relativity, physicists have increasingly realized that its growth spells trouble for quantum mechanics, by presenting particles with an expanding smorgasbord of options for where to be and how to behave. As space grows, how can the Hilbert space of possibilities not grow with it? "It’s definitely true that there are more degrees of freedom in the universe now than in the early universe," said Nima Arkani-Hamed, a theoretical physicist at the Institute for Advanced Study in Princeton, New Jersey.
+
+"I’ve felt for many years [that] it was the elephant in the room," said Strominger.
+
+Giddings sharpens the issue with a paradoxical thought experiment set in a universe that’s both unitary and expanding. Imagine taking the current state of the universe, said Giddings, and adding "one innocuous photon" — perhaps lodged in newly created space halfway between here and the Andromeda galaxy. Unitarity insists that we must be able to calculate what this universe looked like in the past, unswiveling its quantum state as much as we wish.
+
+But rewinding the state of the universe plus an extra photon creates a glitch. Going into the past, the universe gets smaller, and the wavelength of photons will shrink too. In our real universe, this isn’t a problem: A photon shrinks only until the moment of its creation through some subatomic process; the reversal of that process will make it disappear. But the extra photon wasn’t created by that special process, so instead of disappearing when you turn back time, its wavelength will eventually get impossibly small, concentrating its energy so greatly that the photon collapses into a black hole. This creates a paradox, absurdly implying that — in this fictional, expanding universe — microscopic black holes convert into photons. The thought experiment suggests that a naïve mashup of unitarity and cosmic expansion doesn’t work.
+
+Dittrich thinks unitarity smells fishy on more general grounds. Quantum mechanics treats time as absolute, but general relativity messes with the ticking of clocks, complicating the notion of change from one moment to the next. "I personally never relied so much on unitarity," she said.
+
+The question is: What sort of alternative framework could accommodate both cosmic expansion and the rigid mathematics of quantum theory?
+Unitarity 2.0
+
+Last year, Strominger struck up a collaboration with Cotler, who splits his time between quantum gravity research and quantum information theory — the study of information stored in quantum states. The duo realized that there is a well-studied scheme in quantum information theory that resembles the expanding universe: quantum error correction, a scheme where a small message made from quantum states is redundantly encoded inside a bigger system. Perhaps, they thought, the contents of the young universe are similarly stitched into the modern cosmos’s swollen form.
+
+"In hindsight, the obvious answer is this is exactly what people doing quantum encoding have been doing," Strominger said.
+
+In a paper earlier this year, the two homed in on a class of transformations that quantum error-correcting codes belong to, known as isometries. An isometric change resembles a unitary one with added flexibility.
+
+Think of an electron that can occupy two possible locations. Its Hilbert space consists of all possible combinations of amplitudes in the two locations. These possibilities can be imagined as the points on a circle — every point has some value in both the horizontal and vertical directions. Unitary changes rotate states around the circle but do not expand or shrink the set of possibilities.
+
+To visualize an isometric change, though, let the universe of this electron swell just enough to allow a third position. The electron’s Hilbert space grows, but in a special way: It gains another dimension. The circle becomes a sphere, on which the particle’s quantum state can swivel around to accommodate mixtures of all three locations. The distance between any two states on the circle holds steady under the change — another requirement of unitarity. In short, the options increase, but without unphysical consequences.
+
+"Working with isometries is sort of a generalization" of unitarity, said Giddings. "It keeps some of the essence."
+
+Our universe would have a Hilbert space with a huge number of dimensions that proliferate continuously as real space expands. As a simpler proof of concept, Strominger and Cotler studied the expansion of a toy universe consisting of a line ending in a receding mirror. They calculated the probability that the universe would grow from one length to another.
+
+For such calculations, quantum practitioners often use the Schrödinger equation, which predicts how a quantum system evolves in time. But changes dictated by the Schrödinger equation are perfectly reversible; its "literal purpose in life is to enforce unitarity," Arkani-Hamed said. So instead, Strominger and Cotler used an alternative version of quantum mechanics dreamed up by Richard Feynman, called the path integral. This method, which involves tallying up all the paths a quantum system can take from some starting point to an endpoint, has no trouble accommodating the creation of new states (which appear as branching paths leading to multiple endpoints). In the end, Strominger and Cotler’s path integral spit out a matrix encapsulating the growth of the toy cosmos, and it was indeed an isometric matrix rather than a unitary one.
+
+"If you want to describe an expanding universe, the Schrödinger equation as it stands just won’t work," Cotler said. "But in the Feynman formulation, it keeps on working on its own volition." Cotler concludes that this alternative way of doing quantum mechanics based on isometry "will be more useful to us in understanding an expanding universe."
+A Mirage of Possibilities
+
+Relaxing unitarity could resolve the glitches in the thought experiment that has troubled Giddings and others. It would do so through a conceptual change to how we think about the relationship between the past and the future, and which states of the universe are really possible.
+
+To see why isometry solves the problem, Cotler describes a toy universe, one born in one of two possible initial states, 0 or 1 (a two-dimensional Hilbert space). He makes up an isometric rule to govern this universe’s expansion: At every successive moment, each 0 becomes 01, and each 1 becomes 10. If the universe starts at 0, its first three moments will see it grow as follows: 0 → 01 → 0110 → 01101001 (an 8D Hilbert space). If it starts at 1, it will become 10010110. The string captures everything about this universe — all its particles’ positions, for instance. A considerably longer string made from superpositions of 0s and 1s presumably describes the real universe.
+
+At any given time, the toy universe has two possible states: one arising from 0 and another arising from 1. The initial one-digit configuration has been "encoded" in a larger, eight-digit state. That evolution resembles a unitary one, in that there are two possibilities at the beginning and two at the end. But the isometric evolution provides a more capable framework for describing the expanding universe. Crucially, it does so without creating the freedom to add, say, an extra photon between here and Andromeda, which would spell trouble when you turn back the clock. Imagine, for instance, that the universe is in the 01101001 state. Flip the first 0 to a 1 — representing a minor, local tweak, such as the extra photon — and you’ll get a state that looks fine on paper (11101001), with a seemingly valid set of coordinates in the larger Hilbert space. But knowing the specific isometric rule, you can see that such a state has no parent state. This imaginary universe could never have arisen.
+
+"There are some configurations of the future that don’t correspond to anything in the past," Cotler said. "There’s nothing in the past that would evolve into them."
+
+Giddings has proposed a similar principle for ruling out paradoxical states he encountered while studying black holes last year. He calls it "history matters," and it holds that a given state of the universe is only physically possible if it can evolve backward without generating contradictions. "This has been kind of a lingering puzzle," he said. Strominger and Cotler "are taking that puzzle and using it to try to motivate possibly a new way of thinking about things."
+
+Giddings thinks the approach deserves further development. So does Dittrich, who came to similar realizations about isometry a decade ago while attempting to formulate a toy quantum theory of space-time with her collaborator Philipp Höhn. One hope is that such work could eventually lead to the specific isometric rule that might govern our universe — a rather more complicated prescription than "0 goes to 01." A true cosmological isometry, Cotler speculates, could be verified by calculating which specific patterns in the distribution of the matter in the sky are possible and which aren’t, and then testing those predictions against observational data. "If you look closer at it, you’ll find this but not this," he said. "That could be really useful."
+ To Isometry and Beyond
+
+While such experimental evidence could accrue in the future, in the near term, evidence for isometry is more likely to come from theoretical studies and thought experiments showing that it helps combine the malleability of space-time with the amplitudes of quantum theory.
+
+One thought experiment where unitarity looks creaky involves black holes, intense concentrations of matter that warp space-time into a dead end. Stephen Hawking calculated in 1974 that black holes evaporate over time, erasing the quantum state of anything that fell in — a seemingly blatant unitarity violation known as the black hole information paradox. If black holes have Hilbert spaces that mature isometrically, as Cotler and Strominger hypothesize, physicists may face a somewhat different puzzle than they thought. "I don’t think there can be a solution that doesn’t take this into account," Strominger said.
+
+Another prize would be a detailed quantum theory that described not just how the cosmos grows, but where everything came from in the first place. "We have no universe, and all of a sudden we have a universe," Arkani-Hamed said. "What the hell kind of unitary evolution is that?"
+Related:
+
+    Laws of Logic Lead to New Restrictions on the Big Bang
+    The Spooky Quantum Phenomenon You’ve Never Heard Of
+    How the Physics of Nothing Underlies Everything
+
+ For his part, however, Arkani-Hamed doubts that swapping in isometry for unitarity goes far enough. He is one of the leaders of a research program that is trying to break free of many fundamental assumptions in quantum theory and general relativity, not just unitarity.
+
+Whatever theory comes next, he suspects, will take a completely novel form, just as quantum mechanics was a clean break from Isaac Newton’s laws of motion. As an illustrative example of what a new form might look like, he points to a research program stemming from a 2014 discovery he made together with Jaroslav Trnka, his student at the time. They showed that when certain particles collide, the amplitude of each possible outcome equals the volume of a geometric object, dubbed the amplituhedron. Calculating the object’s volume is much easier than using standard methods for computing the amplitudes, which laboriously reconstruct all the ways a particle collision might play out, moment by moment.
+
+Intriguingly, while the amplituhedron gives answers that obey unitarity, the principle isn’t used to construct the shape itself. Neither are any assumptions about how particles move in space and time. The success of this purely geometric formulation of particle physics raises the possibility of a fresh perspective on reality, one free from the cherished principles that currently conflict. Researchers have gradually been generalizing the approach to explore related geometric shapes pertaining to different particles and quantum theories.
+
+"[It] may be a different way to organize unitarity," Cotler said, "and perhaps it has the seeds to transcend it."
+
+A few minutes into a 2018 talk at the University of Michigan, Ian Tobasco picked up a large piece of paper and crumpled it into a seemingly disordered ball of chaos. He held it up for the audience to see, squeezed it for good measure, then spread it out again.
+
+"I get a wild mass of folds that emerge, and that’s the puzzle," he said. "What selects this pattern from another, more orderly pattern?"
+
+He then held up a second large piece of paper — this one pre-folded into a famous origami pattern of parallelograms known as the Miura-ori — and pressed it flat. The force he used on each sheet of paper was about the same, he said, but the outcomes couldn’t have been more different. The Miura-ori was divided neatly into geometric regions; the crumpled ball was a mess of jagged lines.
+
+"You get the feeling that this," he said, pointing to the scattered arrangement of creases on the crumpled sheet, "is just a random disordered version of this." He indicated the neat, orderly Miura-ori. "But we haven’t put our finger on whether or not that’s true."
+
+Making that connection would require nothing less than establishing universal mathematical rules of elastic patterns. Tobasco has been working on this for years, studying equations that describe thin elastic materials — stuff that responds to a deformation by trying to spring back to its original shape. Poke a balloon hard enough and a starburst pattern of radial wrinkles will form; remove your finger and they will smooth out again. Squeeze a crumpled ball of paper and it will expand when you release it (though it won’t completely un-crumple). Engineers and physicists have studied how these patterns emerge under certain circumstances, but to a mathematician those practical results suggest a more fundamental question: Is it possible to understand, in general, what selects one pattern rather than another?
+
+What Ian’s theory very beautifully does is to give you the whole pattern, all at once.
+
+Joey Paulsen, Syracuse University
+
+In January 2021, Tobasco published a paper that answered that question in the affirmative — at least in the case of a smooth, curved, elastic sheet pressed into flatness (a situation that offers a clear way to explore the question). His equations predict how seemingly random wrinkles contain "orderly" domains, which have a repeating, identifiable pattern. And he co-wrote a paper, published last month, that shows a new physical theory, grounded in rigorous mathematics, that could predict patterns in realistic scenarios.
+
+Notably, Tobasco’s work suggests that wrinkling, in its many guises, can be seen as the solution to a geometric problem. "It is a beautiful piece of mathematical analysis," said Stefan Müller of the University of Bonn’s Hausdorff Center for Mathematics in Germany.
+
+It elegantly lays out, for the first time, the mathematical rules — and a new understanding — behind this common phenomenon. "The role of the math here was not to prove a conjecture that physicists had already made," said Robert Kohn, a mathematician at New York University’s Courant Institute, and Tobasco’s graduate school adviser, "but rather to provide a theory where there was previously no systematic understanding."
+Stretching Out
+
+The goal of developing a theory of wrinkles and elastic patterns is an old one. In 1894, in a review in Nature, the mathematician George Greenhill pointed out the difference between theorists ("What are we to think?") and the useful applications they could figure out ("What are we to do?").
+
+In the 19th and 20th centuries, scientists largely made progress on the latter, studying problems involving wrinkles in specific objects that are being deformed. Early examples include the problem of forging smooth, curved metal plates for seafaring ships, and trying to connect the formation of mountains to the heating of the Earth’s crust.
+
+More recently, mathematicians and physicists have expanded the effort to connect theory and observation to a broad array of wrinkling situations, geometries and materials. "This has been going on for about the last 10 years, where we’re doing experiments first and then trying to find the theory to understand them," said the mathematician Dominic Vella of the University of Oxford. "It’s only recently that we’ve started to have a proper understanding."
+Share this article
+Copied!
+ 
+ 
+ 
+Newsletter
+
+Get Quanta Magazine delivered to your inbox
+Recent newsletters
+Ian Tobasco in a purple shirt outdoors in front of a metal sculpture
+
+Ian Tobasco has developed a theory that mathematically describes the kinds of wrinkles that emerge when curved surfaces are pressed flat.
+
+Petra Lein
+
+There have been exciting milestones. In 2015, Pedro Reis, a mechanical engineer at the Massachusetts Institute of Technology, described physical laws for the geometric patterns that form on deflated silicon balls. His work connected those wrinkles to the thickness of the inner and outer layers of the elastic material. Reis also noted that wrinkles, instead of being considered defects, might offer opportunities to design novel mechanical behaviors. Then in 2017, Vella led the analysis of the wrinkling instabilities of a thin elastic film under pressure, characterizing how the number of wrinkles changed according to the depth of the initial poke and other specific details.
+
+But these developments still only solved pieces of the problem. For a more general mathematical understanding of how wrinkles form, a different approach was necessary. Tobasco would be the one to move it forward.
+Following Curiosity
+
+When he was younger, Tobasco thought he’d go into aerospace engineering. He graduated from the University of Michigan in 2011 with a bachelor’s degree in the field, but by that point he had already been drawn into thinking deeply about mathematical reasoning and physical systems. He earned a doctorate in math, but he blames Joey Paulsen, a physicist now at Syracuse University, for setting him on the specific path of wrinkles.
+
+Earlier in Paulsen’s career, when he was studying the properties of unusual materials, he learned to fabricate and analyze ultra-thin polymer films using a technique called spin coating. First he’d create a special liquid material containing trace amounts of dissolved polymer; then he’d place the material on a spinning plate. Most of the liquid would evaporate, while the polymer spread to an even thickness before it solidified. Once he had his own lab at Syracuse, Paulsen learned how to adapt spin coating to create curved films — like ultra-thin turtle shells.
+An illustration of a polyhedral shape being folded flat.
+geometry
+Father-Son Team Solves Geometry Problem With Infinite Folds
+April 4, 2022
+Read Later
+
+One day, he placed some of these curved films on top of still water and photographed how they settled on the surface. "It was purely curiosity-driven," he said. The pictures caught Tobasco’s eye at an informal meeting with Paulsen in 2017.
+
+"They showed that you could get these random disordered wrinkle patterns — when you did the experiment twice, you got two different patterns," said Tobasco, who’s now an assistant professor at the University of Illinois, Chicago. "I wanted to see if I could come up with some derivable way [to predict those patterns] from elasticity, that incorporated the shape of the shell. And that the model wouldn’t change from shell to shell."
+
+Wrinkling patterns are configurations with the least possible energy. That is, as the thin film settles on a flat surface, it morphs until it finds the arrangement of wrinkles, disordered or not, that takes the least amount of energy to maintain. "You can organize patterns by the amount of energy that’s stored when [the pattern] manifests," Tobasco said.
+
+Led by that guiding principle, he isolated a few characteristics of the film that proved to be the ones that select its pattern, including a measure of its shape called its Gaussian curvature. A surface with positive Gaussian curvature bends away from itself, like the outside of a ball. Negatively curved surfaces, in contrast, are saddle-shaped, like a Pringles chip: If you go in one direction you travel up, but if you go in a different direction you go down.
+
+Tobasco found that areas of positive Gaussian curvature produce one kind of arrangement of ordered and disordered domains, and areas with negative curvature produce other kinds. "The detailed geometry isn’t so important," Vella said. "It really just depends on the sign of the Gaussian curvature."
+
+Merrill Sherman/Quanta Magazine
+
+They had suspected that Gaussian curvature was important to wrinkling, but Vella said it was a surprise that the domains depended so heavily on the sign. What was more, Tobasco’s theory also applies to a broad spectrum of elastic materials, not just Paulsen’s forms. "It’s a nice geometric construction that shows where wrinkles will appear," Vella said. "But understanding where that comes from is really deep and is kind of surprising."
+
+Paulsen agreed. "What Ian’s theory very beautifully does is to give you the whole pattern, all at once."
+Real-Life Wrinkles              
+
+In early 2018, Tobasco had his theory mostly settled — but even though it worked on paper, he couldn’t be sure it would be accurate in the real world. Tobasco contacted Paulsen and asked if he would be interested in collaborating. "Something just sort of worked right away," Paulsen said. "With some of Ian’s predictions, laid on top of experimental pictures, we could see right away that they lined up."
+
+At that year’s Society for Industrial and Applied Mathematics Conference on Mathematical Aspects of Materials Science, Tobasco was introduced to Eleni Katifori, a physicist at the University of Pennsylvania who was exploring the problem of wrinkle patterns in confined shells and building a database of results. It was a moment of serendipity. "We could see the domains [in the simulations] that Ian’s work explained," she said. The match was uncanny. Even during their first discussions, it was clear that Tobasco’s theory, Paulsen’s experimental images and Katifori’s simulations all described the same phenomena. "Even at the early stages, when we didn’t have anything concrete, we could see the connection."
+
+That early excitement quickly gave rise to skepticism. It seemed almost too good to be true. "He’s a mathematician and making all these things non-dimensional," Paulsen said, referring to how Tobasco’s ideas about curvature could be extended far beyond two-dimensional flat materials. "Are we really looking at the same system? It agrees, but should it have agreed?"
+
+For the next two years, the three researchers hashed out the details, showing that Tobasco’s theory really did predict — exactly — the arrangement of wrinkles that Paulsen saw in his experiments and Katifori found in her computer models. On August 25, they published a paper in Nature Physics showing how the three approaches all converge on the same, straightforward geometric arrangement of wrinkles. Notably, they found that the patterns fall into neat families of isosceles triangles that demarcated domains of order and disorder. In addition, the results aren’t confined to mathematical abstractions of impossibly thin materials but address multiple orders of magnitude of thickness.
+Related:
+
+    A Grand Theory of Wrinkles
+    Mathematicians Identify Threshold at Which Shapes Give Way
+    The Atomic Theory of Origami
+
+Their work also suggests opportunities to expand the theory and its applications. Katifori said that as a physicist, she’s interested in harnessing the predictions to design new materials. "I want to understand how you can design surfaces so they actually self-organize the wrinkling patterns into something that you want."
+
+Another open question is how generally the theory can be applied to different kinds of curved surfaces. "It’s very focused on situations where [Gaussian curvature] is either positive or negative, but there are a lot of situations with some regions that are positive and some negative," Vella said.
+
+Paulsen agreed that this is an exciting possibility, and Tobasco said he is actively working in this area and considering other shapes of shells — such as those with holes.
+
+But Paulsen said the theory, even as it currently stands, is beautiful and surprising. "If I give you a shell and a boundary shape and this simple set of rules that Ian’s theory predicted, then you can take a compass and ruler and basically draw the wrinkles," he said. "It wouldn’t have had to happen that way. It could have been totally horrendous."
+
+A US army major doctor and her wife, a civilian doctor, have been charged with a plot to leak information to the Russian government.
+
+Jamie Lee Henry and Anna Gabrielian are accused of planning to share confidential information about patients at a military hospital.
+
+The pair allegedly told an undercover FBI agent that they were motivated by patriotism for Russia.
+
+Representatives of the couple have not yet commented on the case.
+
+There has been no comment from Russian authorities, either.
+
+The pair were charged with conspiracy and the disclosure of identifiable health information, in an indictment filed in a court in Baltimore, Maryland which was unsealed on Thursday after their arrest.
+
+Prosecutors said the couple wanted to help the Russian government "gain insights into the medical conditions of individuals associated with the US government and military".
+
+The indictment states that Maj Henry, 39, planned to use her security clearance to gain access to private medical records from the hospital at Fort Bragg, the large military base where she worked.
+
+Dr Gabrielian, 36, is accused of planning to share information from where she worked, believed to be Johns Hopkins Hospital in Baltimore.
+
+She allegedly offered help to the Russian embassy in Washington several months ago, after Russia's invasion of Ukraine.
+
+In mid-August she was approached by a person claiming to work for the Russian embassy, who was in reality an FBI agent.
+
+During the meeting, the indictment says she told the agent that "she was motivated by patriotism toward Russia to provide any assistance she could to Russia, even if it meant being fired or going to jail".
+
+She is accused of offering to bring her wife into the plot, and telling the agent that she had access to medical information at the base and insight on how the US was training the military to provide assistance to Ukraine.
+
+At another meeting later on the same day, Maj Henry allegedly told the agent that she was also committed to Russia, and considered volunteering to join the Russian army.
+
+She apparently said she had reservations about violating the Health Insurance Portability and Accountability Act (HIPAA), which is what the couple have been charged with.
+
+But Dr Gabrielian allegedly had no such concerns, and handed over some information later in August.
+
+The indictment suggests the couple planned to hand over the medical records in order to prove their willingness to help the Russians, and their level of access to secret information.
+
+Dr Gabrielian is also accused of telling the agent that her wife could share information about how the US military establishes army hospitals in war conditions, and previous training given by the US to the Ukrainian military.
+
+If convicted, the defendants face a maximum of five years in prison for the conspiracy, and 10 years for each count of disclosing health information.
+
+Maj Henry was the first known active-duty US Army officer to come out as transgender, after the army granted her permission to officially change her name and gender in 2015, the same year the couple were married.
+
+You may also be interested in:
+Media caption,
+
+The BBC’s Abdujalil Abdurasulov reports from Ukrainian front line positions in the Kherson region
+More on this story
+
+Queen Elizabeth II died of "old age", according to her death certificate, which has been released by the National Records of Scotland.
+
+The certificate records the Queen died at 15:10 on 8 September in Balmoral Castle, at the age of 96.
+
+Princess Anne is recorded as the person providing the information about the Queen's death.
+
+For "occupation" of the deceased, the official form says: "Her Majesty the Queen."
+
+The doctor who certified the death at Balmoral in Aberdeenshire was Douglas Glass, who Buckingham Palace says was an "apothecary to the Queen".
+
+When she was alive there was a curtain of privacy around the Queen's health, and in her death there remains some restraint.
+
+Her cause of death is recorded as "old age", without any further details.
+
+"Old age" is only usually given as the sole cause of death in very limited circumstances.
+
+This would be where the certifying doctor has personally cared for someone over a long period; where a gradual decline has been observed and where a doctor is not aware of any identifiable disease or injury contributing to a death.
+
+But the timing of the Queen's death does confirm more about what happened during the day of 8 September, when so much attention was being paid to reports of her ill health.
+
+Buckingham Palace had formally announced the Queen's death at 18:30, with news organisations around the world immediately relaying the announcement that: "The Queen died peacefully at Balmoral this afternoon."
+
+There were subsequent reports that the Prime Minister Liz Truss had been privately notified earlier at 16:30.
+
+This death certificate shows the Queen had died at 15:10, more than three hours before the news was publicly released.
+
+During that afternoon, following earlier reports of concern about the Queen's health, her children and grandchildren had rushed to Balmoral.
+
+    'It's important we see the Queen's last resting place'
+    This was history - solemn, spectacular and intense
+    Special stamps issued in memory of the Queen
+    Obituary: A long life marked by a sense of duty
+
+Buckingham Palace had confirmed in a statement of 12:32 that there were health concerns - but that the Queen was "comfortable" and "under medical supervision".
+
+King Charles - then Prince Charles - and his sister Princess Anne had already been in Scotland.
+
+But other members of the Royal Family travelled by air that afternoon, including Prince William.
+
+The timings would now suggest that their flight was still on its way to Aberdeen airport at the time of the Queen's death.
+
+After the drive from the airport, Prince William, Prince Andrew and Prince Edward and his wife Sophie arrived at Balmoral at about 17:00.
+
+The stark details of the death certificate record the Queen's status as "widowed" and give some family details.
+
+It requires the names and occupations of parents - her father formally recorded as Albert Frederick Arthur George Windsor, whose occupation was King George VI, her mother as Elizabeth Angela Marguerite Bowes-Lyon, who was Queen Elizabeth the Queen Mother.
+
+The death had been recorded by the local registrar in Aberdeenshire on 16 September, when the Queen was lying in state in Westminster Hall in London.
+
+The Queen's death certificate was released on the same day that the public was able to see her final resting place for the first time.
+
+Hundreds queued outside Windsor Castle to view the King George VI memorial chapel, inside St George's Chapel, where a ledger stone inscribed with the late monarch's name lies.
+Related Topics
+
+North Korea carried out another banned missile test, just hours after a visit by US Vice-President Kamala Harris, South Korea's military says.
+
+Two short-range ballistic missiles were fired into the sea off the North's east coast, it said, in the third such breach of UN sanctions this week.
+
+It follows a visit by Ms Harris to the demilitarised zone dividing the Koreas.
+
+This has been a record year for missile tests in North Korea and the latest launches are timed to send a message.
+
+They come as the US and South Korea held joint naval drills this week around the Korean peninsula.
+
+Earlier on Thursday, Ms Harris met South Korea's leader Yoon Suk-yeol shortly after her arrival in the capital Seoul.
+
+Both condemned Pyongyang's actions.
+
+In a White House statement, the two leaders criticised Pyongyang's "provocative nuclear rhetoric and ballistic missile launches", and "reaffirmed [their] alignment... and goal of the complete denuclearisation of the Korean peninsula".
+
+The vice-president also "underscored that the United States is committed to defending [South Korea]... and welcomed [their] close co-operation".
+
+With denuclearisation talks between the North and the US long stalled, these launches are part of a wider pattern of escalation, with Pyongyang continuing to build and refine its weapons, while Washington strengthens its defences.
+
+This week's missiles - the first fired on Sunday before the naval drills began, followed by two on the eve of Ms Harris's visit and the last two hours after she left - are the first since early June, but North Korea has test-launched more than 30 weapons so far in 2022, more than in any other single year.
+
+Experts believe the launches are in retaliation to the joint naval drills as Washington and Seoul bolster their defence of South Korea - the four-day joint drills are the first involving a US aircraft carrier to be held since 2017.
+
+    N Korea missile tests: What does Kim Jong-un want?
+    Wargaming a North Korean attack
+
+In a speech to the General Assembly earlier this week, Pyongyang's ambassador to the UN Song Kim criticised the US and South Korea for their military exercises, saying they were bringing the peninsula to "the brink of war". He said the United States' "hostile policy" towards North Korea was the reason the world was now "heading into a much more dangerous phase".
+
+South Korea and the US have long defended their joint exercises, which they say are aimed at stabilising the region.
+
+The secretive Communist state's assertiveness over its possession of nuclear weapons is growing - and that worries the US and South Korea.
+
+Earlier this month, North Korea passed a law declaring itself to be a nuclear weapons state. Leader Kim Jong-un vowed his country would never give up their weapons or engage in nuclear disarmament talks.
+
+The law also allows the North to fire first, in a wide range of scenarios. Until recently it had always claimed its weapons were a deterrent, aimed at preventing a war.
+
+For months intelligence from the US and South Korea has suggested the North is ready to test a nuclear weapon but is waiting for the opportune political moment.
+
+This would be its seventh nuclear test and its first for five years. On Wednesday South Korea's spy agency told politicians that the nuclear test could happen between mid-October and early November, likely seizing on a window between the Chinese Communist Party congress and before the US mid-term elections.
+
+President Yoon, who took office in May, has focused on strengthening South Korea's alliance with the United States to tackle the threat posed by North Korea. 
+
+Gen Z is known for sharing everything about their lives - from their outfits to their latest meals - online. Now, they're sharing their salaries, defying a long-held taboo and ruffling employers' feathers in the process.
+
+Anyone who runs into Hannah Williams on the street can expect to be asked a rather probing question: "What do you do and how much do you make?"
+
+Ms Williams, 25, is the founder of Salary Transparent Street - a TikTok account with over 850,000 followers and 16.7m likes. In her videos, she travels to different US cities and asks people on the street to stop and share their profession and salary.
+
+Ms Williams said she started these videos because of her own career experience, when she realised she was being underpaid. After that, she began discussing her career journey on TikTok, where she said her followers really responded to her openness about salary.
+
+"This isn't a thing that people talk about, but it should be. This should be normal and the more I learned about the gender pay gap and race pay gaps I was like, 'this has to be a thing' - and my response to that was to create Salary Transparent Street," she said.
+
+She's not the only one asking these questions. Younger generations are pushing for pay transparency - the practice of openly sharing salary with others - with viral tweets, memes and TikTok accounts.
+
+Some lawmakers are taking heed. On Tuesday, California became the latest US state to require all employers with more than 15 staff to post a salary range for open positions, and for the state to track data on how salaries differ according to race, gender and ethnicity. Gen Z TikTokers, who had supported the law, cheered.
+
+Other states and cities have passed similar laws. While some employers have resisted salary disclosure in the past, experts say the tide is turning.
+TikTok leads to salary talk
+
+Talking salary has long been seen as uncouth in the US. Dr Ricardo Perez-Truglia, assistant professor at the University of California Berkeley, said it's somewhat equivalent to discussing self-worth.
+
+"On average, salaries tend to be a signal of how valuable you are to employers. So it's not surprising that some people feel uncomfortable talking about their salaries, just like they may feel uncomfortable talking about their grades in school," he said.
+
+Aaron Terrazas, chief economist at Glassdoor, a website that hosts company reviews and salary estimates for professions, agreed. It can be a "deep source of anxiety", he said - no-one wants to be an outlier if they're overpaid or underpaid, and fear of finding oneself there discourages willingness to share.
+
+    Do you want to find out how much your colleagues earn?
+    Pay gap between men and women fails to improve
+
+But there is plenty of evidence that younger generations are more comfortable sharing personal information online. That includes salary, surveys suggest.
+
+"As with most social movements, it's the younger generations as always, that are leading the way," said Maria Colacurcio, CEO of Syndio, a platform that conducts pay equity analysis.
+
+Over 80% of Gen Z feels that sharing salary will improve pay equality, according to LinkedIn Market Research. Millennials are not far behind, with 75% agreeing. With each older generation, that sentiment diminishes - 47% of Gen X agrees and only 28% of Baby Boomers agree.
+
+Ms Williams's experience has been in line with that research, she said: Gen Zers and Millennials are much more likely to say yes to her when she approaches them to share their pay on video, and women more often agree than men.
+Does pay transparency close pay gaps?
+
+Some people, including Ms Williams, believe that pay transparency will help close gender and racial pay gaps. According to the Bureau of Labor Statistics, women earn 82 cents to every dollar a man earns - with women of colour often earning even less.
+
+When travel writer Victoria Walker decided to leave her job, she disclosed how much she made on Twitter while sharing a job posting for her replacement.
+The BBC is not responsible for the content of external sites.View original tweet on Twitter
+
+She did it to put power back in employees' hands, she said.
+
+"There's a lot of mystique around being a travel writer" and "there isn't much transparency in our own newsrooms about pay", she said.
+
+Some studies on real-world examples have suggested that when salaries are disclosed, gender pay gaps shrink.
+
+In 2006, Denmark started requiring firms to publish gender pay gaps - a recent survey found that the gender pay gap declined by 2%. A National Bureau of Economic Research paper found that the gender pay gap decreased 20-40% when public sector university salary disclosure laws came into effect in Canada.
+
+According to Mr Terrazas, when pay is opaque it's hard to decipher whether it was based on something acceptable - like relevant experience in a labour market - or whether it was based on something generally considered to be discriminatory - like race or gender in the labour market.
+
+There could be potential downsides, experts caution. The Harvard Business Review warns of some pitfalls to avoid, like "pay compression", meaning new hires could earn the same pay as long-tenured employees.
+California law could change game
+
+Although the right for employees to discuss pay amongst each other has been enshrined in a national law for 90 years, some US employees report pressure not to talk about the subject.
+
+A 2022 Glassdoor-Harris Poll survey revealed 28% of employees say their employer discourages them from discussing pay with colleagues.
+
+Just last year Apple shut down a Slack channel where employees were discussing salary. According to Apple, this channel did not meet their Slack terms of use.
+
+When Colorado enacted its pay transparency law, in January 2021, some remote-work employers tried to skirt the law by opening up jobs to everyone except Coloradoans. This was so rampant that one Colorado resident created a website of all the companies excluding Colorado applicants.
+Median hourly wages. . .
+
+But the more states pass similar legislation, the harder it will be for employers to avoid the hard discussions about salaries. California, the most populous state and the home of tech giants like Apple and Meta, will have its pay transparency law go into effect next year.
+
+That will have a widespread impact, said Ms Colacurcio.
+
+"We can't get away with anymore saying this job is open to all remote employees except Colorado," she said. "And so now with California, companies are saying, all right, we got to comply with this."
+
+As for Ms Williams, the TikToker, her salary disclosure sparked her own career renaissance.
+
+She quit her job as a senior data analyst - making $115,000 (£106,000) - to pursue full-time content creation for Salary Transparent Street. She is on track to make $150,000 this year.
+
+It’s just hours before Monday Night Raw, the biggest show in the history of professional wrestling, is scheduled to begin, and CM Punk’s voice is echoing through the cavernous backstage of Cleveland’s Quicken Loans Arena. He is screaming for someone to help him. Tonight. Right now. His head feels like it’s going to explode from a stiff blow he suffered during the Royal Rumble last night. He’s had enough concussions to know he’s got one. There is a disgusting welt on his ass that hurts like hell and keeps getting bigger. His ribs ache and his knee is shot. An infection rages in his body; he’s been coughing up yellow bile for weeks. A steady stream of oral antibiotics has been causing such intestinal distress that he shit himself on live TV a month ago. CM Punk calls himself "the best in the world," and to the millions of fans of professional wrestling who watch him every week, he is exactly that. But today—right now—he feels like the world has broken him.
+Advertisement - Continue Reading Below
+
+His bosses—the executives at World Wrestling Entertainment—have other plans. Despite everything, they still want him to perform tonight. They want him to piss in a cup and pass a concussion test. If he fails the test, they’ll still send him out to talk, just not take a hit. They want him to put on a show for a national television audience, as he’s done every Monday for weeks, despite being so sick he gets on his hands and knees and dry-heaves backstage. He doesn’t want to talk. He doesn’t want to do any of it. Punk is thirty-five years old and fears he’s expendable, like so many wrestlers before him. One of his heroes, Eddie Guerrero, died in 2005 on the road in a hotel room with a toothbrush in his hand when his heart failed. He was thirty-eight. That same year, his friend Chris Candido died from complications following surgery to repair a shin he broke in a cage match. He was thirty-three.
+d
+Michael Avedon
+Advertisement - Continue Reading Below
+
+"Please," Punk yells, "somebody fucking help me!"
+
+Then CM Punk walks into a room with the principal owner of the WWE, Vince McMahon, and McMahon’s son-in-law, wrestler Paul Levesque, better known by his ring name, Triple H, who is head of talent relations. CM Punk lays it all out: He doesn’t love wrestling anymore. He’s sick and hurt and confused. Every day is an effort to show up. He’s lost all his passion and doesn’t want to do it anymore. He says everything he needs to say.
+
+Then he says, "I’m going home."
+
+And that’s exactly what happens. Phil Brooks walks out of the building CM Punk walked into and goes home to Chicago. Nearly a decade will pass before he steps inside a pro-wrestling ring again, and when he does, it will be with a start-up dead set on challenging the billion-dollar WWE.
+
+Where did Phil Brooks go?
+
+And how did CM Punk find his way back?
+
+Professional wrestling isn't real.
+
+The stories are scripted and match outcomes are predetermined. But elements of it are all too real. There’s nothing fake about the punishment on a wrestler’s body, both in the ring and in the unrelenting schedule. Two hundred days on the road a year, a new city every night. There are wrestlers who become famous, but many more end up battered beyond their age. Some die before their time, bodies ravaged by the pummeling they endured or the chemicals they took to survive it. It’s a brutal business, wrapped in the shine of cable ratings and movie contracts.
+d
+Jennifer Livingston
+Advertisement - Continue Reading Below
+
+This article appeared in the March 2022 issue of Esquire
+subscribe
+
+The center of it all is the WWE (formerly the WWF, which it was called before the World Wildlife Fund forced a name change in 2002). The company has dominated professional wrestling since the 1980s, when Macho Man Randy Savage, André the Giant, and Hulk Hogan were runnin’ wild, brother. It was the home of Stone Cold Steve Austin and the Rock during the Attitude Era of the 1990s, when the business was bigger than ever. And after that it was the home, for seven years, of CM Punk.
+
+There hasn’t been a real rival to the WWE since the company bought its most successful competitor, World Championship Wrestling, from AOL Time Warner in 2001 (and even then WCW was only briefly successful against the wrestling juggernaut). Since that point, despite a few challengers making attempts to unseat it, the WWE has been the only wrestling company that matters, dominating cable ratings, spawning more than a few movie stars, and making Vince McMahon a billionaire.
+d
+Michael Avedon
+Advertisement - Continue Reading Below
+
+The WWE’s hegemony in the wrestling world meant that wrestlers looking to make real money had to sign with it. If a single, dominant corporation in an industry that regularly breaks the bodies of its talent sounds like a bad idea, that’s because it is. For the couple decades that have passed since the WWE bought WCW, wrestlers—considered independent contractors by the company—have had little bargaining power and few viable options. But the lack of competition has also made the WWE complacent: Its story lines are largely stagnant, its ratings are slipping (though still regularly winning the night when its programming airs), and it has become overly reliant on bringing back aging "part-timers" like the fifty-six-year-old Undertaker and the fifty-five-year-old Goldberg to boost interest outside its shrinking fan base. (Somewhere around 1.7 million people regularly tune in to its flagship Monday Night Raw, down significantly from a decade ago, when five million watched the show.) The vast world of wrestling-rumor sites spent much of 2021 speculating on whether the WWE is preparing itself for a sale. If there was a moment the WWE was vulnerable to being disrupted, it is right now.
+
+CM Punk was the unlikeliest WWE star.
+
+He made his debut in 2006, looking nothing like a bodybuilder and having none of the moves of an acrobat. He eschewed sequined robes and cheesy catchphrases for a hoodie and grimy wrist tape. His arms a blur of tattoos, a faded drug free etched on his knuckles. His eyes perpetually bagged, face stubbled, hair slicked back to reveal a widow’s peak. He looked like a guy you might know. Fans loved CM Punk.
+c2xmyj william regal and cm punk wwe raw at the verizon centre washington dc, usa 280708
+CM Punk wrestling in the WWE.
+Alamy Stock Photo
+Advertisement - Continue Reading Below
+
+"You felt so much closer to him than you could to someone like the Undertaker, who is obviously taking off the gear when he gets in his car to go home at night," says Lindsey Kelk, cohost of the Tights and Fights podcast. "Punk wasn’t a superhero; he wasn’t a character dreamed up by a room full of writers, designed to sell shirts. When Punk won, we won."
+
+Because wrestling blurs lines between characters and people and stories and reality, Punk’s biggest story line involved him quitting the WWE due to the very problems that led him to walk out for real. In June 2011, the company gave him time on live TV to air his grievances. He sat cross-legged on the stage and talked until they cut the mic. That moment is called "the pipe bomb."
+
+Fans thought he would leave the company, because it seemed clear the problems he voiced onstage were real. Instead, he won the world title off John Cena that July in one of the best matches in WWE history. After winning the belt, he hoisted it aloft and made his way out of Chicago’s Allstate Arena through the crowd. The story line was that he’d just walked out on the company with its championship belt. In fact, he’d re-signed that day. The next two years were the greatest of his wrestling career. He held on to the WWE championship for a record-breaking 434 days—and he started calling himself "the best in the world"—before losing it to the Rock, aka Dwayne Johnson, who returned to the ring between movie roles in 2013. They were also his lowest as a person, and he suffered multiple injuries and countless indignities. He was miserable. His friends worried about him.
+d
+Advertisement - Continue Reading Below
+
+Punk felt like he was stuck in a paradox—too valuable to be left off TV but not valuable enough to be given time to heal from his injuries or to rest.
+
+He started hoping for injury, something that would require surgery and lengthy recovery time. He was elated when bone chips had to be removed from his elbow. It meant time off the road. Doctors told him the bone fragments looked like a set of human teeth. Instead of the usual six weeks of recovery, Punk was handed a mic and told to do promos. He was in a sling so long that Mattel made one for his action figure.
+
+It’s among the most valuable WWE action figures on the resale market.
+
+Then he walked out on McMahon and his son-in-law in Cleveland. Six months later, they fired him. Via FedEx. On his wedding day.
+
+To understand how Phil Brooks adopted wrestling as his life’s work, you need to know where he comes from. And that it wasn’t good. His father drank a lot, which led Brooks to become straight-edge as a teen. His mom was harsh and strict, and they were never close. Wrestling was banned in the house because she thought it would lead to her sons becoming criminals. "I had a roof over my head," Brooks, forty-three, tells me from his home in Chicago. "I wasn’t starving," but, he adds, "that doesn’t mean that your shit should not be better."
+d
+Michael Avedon
+Advertisement - Continue Reading Below
+
+He had a friend, Chez, whose family welcomed him like one of their own. Feeling accepted, wanted, and loved was "kind of all you really wanted," he remembers, "and you didn’t know you wanted that because you didn’t know it existed." He spent years on and off their couch and talks about them like they’re blood. The siblings share a tattoo; Brooks’s is behind his left ear. Decades later, he still tries to have Sunday dinner with them a few times a month. "The most impressive thing the family did is have four children, sent them all to college, and they’re all the most well-adjusted, smart, hardworking human beings I’ve ever met in my entire life," he says. "And then there’s me."
+
+When Brooks was fifteen, he and his older brother, Michal, started hanging out with a group of kids at a suburban-Chicago comic-book shop. All of them loved wrestling, and eventually an idea was floated: Let’s create our own league. On a warm July night in 1993, they started the Lunatic Wrestling Federation, or LWF. The boys sank four landscaping ties into one of their parents’ backyards and strung ropes between them to form a makeshift wrestling ring. There were no mats or pads; they threw their friends down onto the lawn they’d mowed earlier that day. The audience was a handful of pals; the pyrotechnics was a friend shooting Roman candles. They called that show—in which these teenagers bounced off the sagging ropes, a logo spray-painted right there on the ground—"Bloodbath." It is amazing no one was killed. Brooks adopted the ring name CM Punk alongside his tag-team partner, CM Venom. The CM stood for "Chick Magnet." Their tag team: the Chick Magnets. It wasn’t long before the wooden backyard ring, the over-the-top characters, and the violent shows gained notoriety in the small world of Chicago wrestling. People started showing up. They moved out of the backyard and into rented gymnasiums. They began to make money. And then.
+
+Michal Brooks stole thousands of dollars from the LWF. When his brother found out, according to a book CM Venom later wrote, "Phil took a good five count before he even moved from his static position. ‘He is not . . . my brother,’ he finally rasped out." Many of the original LWF members eventually forgave Michal and, in time, he repaid the money. Phil Brooks never talked to his brother again.
+Advertisement - Continue Reading Below
+d
+
+Brooks left the LWF in 1998—it seems everyone involved is still bitter at someone from that time—and learned how to wrestle for real, but the CM Punk name stuck. As the years passed and his fame soared, Brooks remained close to his makeshift family. He dropped everything to be at the wake of an old wrestling buddy in Chicago. "He just kind of walked in, larger than life and way too fucking tan," Nora Flanagan, a friend from childhood, whose brother was in the casket, tells me, laughing. His friends all have a story like this from when he was a star—showing up out of nowhere, helping out, being fiercely loyal and protective. "He has one of the biggest fucking hearts I’ve ever known in my whole life," Flanagan says. But it’s tempered by what she calls "a rightfully well-developed fuck-you reflex."
+
+The origin story of the company that would seek to challenge the vast empire of the WWE begins at a small T-shirt shop on the North Side of Chicago.
+
+In 2010, CM Punk wanted a custom-made T-shirt to wear on a TV taping of the WWE’s SmackDown. Fellow wrestler Colt Cabana—the two were nearly inseparable at the time—recommended a quick-turnaround place near his home called One Hour Tees. Inspired by Punk, wrestlers working the independent circuit turned to One Hour Tees to make shirts they could sell after a match. Merch sales might be the only money they’d make after a night of wrestling. Pretty soon the shop’s owner, Ryan Barkan, founded Pro Wrestling Tees, an online store for wrestlers to sell shirts. "We started this site to help wrestlers make extra money," he told Sports Illustrated in 2017. "Some of the wrestlers now depend on the website to pay rent." It went from a small side project to a global business.
+Advertisement - Continue Reading Below
+d
+Michael Avedon
+
+Pro wrestling is huge in Japan. Been that way for decades, and there’s a steady business in "tape trading" to bring the product to a small but loyal U. S. audience. The Internet made it much easier, and stars in Japan started to command larger paydays on indie shows in the U. S. They also sold a lot of T-shirts to American fans thanks to a partnership between Pro Wrestling Tees and New Japan Pro-Wrestling.
+Advertisement - Continue Reading Below
+
+Suddenly, for the biggest stars in Japan, existing as a wrestler outside the WWE was viable. Most of those stars represented a faction called the Bullet Club—originally a villainous crew of foreign wrestlers, mostly from the U. S.—whose logo’s skull and crossed AR-15’s appealed to disaffected suburban teens. They sold enough Bullet Club tees that they were picked up by disaffected-suburban-teen supply store Hot Topic and then sold approximately a shit-ton more. The top stars of the Bullet Club, brothers Nick and Matt Jackson, Kenny Omega, and Cody Rhodes (son of wrestling legend Dusty Rhodes), became rich, all without the WWE.
+
+Then they met a billionaire bumper salesman and his son.
+
+Gone from the WWE, Phil Brooks wanted to be left alone and live as what he calls a "civilian."
+
+"All the things that athletes do in off-seasons that they can’t do when they’re in season? I wanted to do," Brooks says. Wrestling doesn’t have an off-season. His list was long. He married April Mendez in June 2014—they’d been a couple since 2013, having met in the WWE, where she wrestled as AJ Lee. They adopted a dog together and named him Larry Talbot after the character (played by Lon Chaney Jr.) who became the werewolf in the Universal horror classics. The dog, scrawny and snaggledtoothed, "had a pretty thick jacket of problems" when they brought him home, Brooks said in a video for a Chicago pet-adoption agency. On a walk the first night, the dog bit him, then hid, worried it would be hit. "You can bite me all you want," he told the dog. "You’re not gonna get hit, not in this house." He still sings Larry awake every morning.
+d
+Advertisement - Continue Reading Below
+
+It’s clear Brooks probably wouldn’t have made it, not in the same way at least, without Mendez, a mental-health advocate who was diagnosed as bipolar when she was in her twenties. "She was possibly the one good thing in my life at the time," he says. She was there for him in those confusing, hard days after he left the WWE. She found him a doctor who finally dealt with the infection that had plagued him for months. If anything, he says, "she could probably bill me for being my therapist."
+
+It was impossible for two wrestlers in a relationship not to be intertwined with the business. She was still wrestling for the WWE when he left. "At times I felt caught in the middle, like a child of divorce," she wrote in her memoir, Crazy Is My Superpower. "There were days I felt so overwhelmed I would cry in a bathroom stall mere moments before heading onto live TV." She left the WWE in 2015.
+
+When Brooks walked out on the WWE, it was evident his decision was going to test them. "Nobody gets out, you know?" Brooks says. The WWE is "very petty and they’re very vindictive." Although McMahon later expressed regret about the timing, Brooks’s being fired on his wedding day was only the start of a pitched battle with the corporation that would unfold for the next four years. There were fights over royalties and merchandise, his likeness being used in a new video game, and nondisparagement clauses—which Brooks never signed.
+
+It got worse.
+
+In 2015, Dr. Christopher Amann, the lead ringside medic for the WWE, filed a defamation suit against Brooks over comments he made on Colt Cobana’s podcast. In the two-hour interview, Brooks detailed how sick he was at the end of his tenure in the WWE, including vivid descriptions of the swollen, painful infection on his butt. His depiction of the WWE’s medical staff as inattentive at best and incompetent at worst landed him and Cabana in court. When the lawsuit was announced, the WWE released a statement in support of Amann and accompanied it with a bizarre supercut of slow-motion shots of Brooks’s ass in his wrestling trunks.
+Advertisement - Continue Reading Below
+
+Three years elapsed from when the suit was filed to when it finally entered a courtroom. The years preparing for the trial forced Brooks to revisit every gruesome detail of that time: Even the Speedo he wore under his wrestling trunks was admitted into evidence. The trial lasted a week. Much of it focused on Brooks’s deteriorating health in his last few months with the WWE and who knew what when. Amman testified he never saw the ass welt and treated the infection with antibiotics; on the night of the Royal Rumble, when a clothesline left Brooks seeing stars, Amman claims he told him to leave the match. Brooks insisted he showed the doctor his ass on at least two occasions and that the antibiotics he’d been given made him shit his trunks on live TV. Nobody disputed the existence of the welt or the infection, but everything else was up for grabs. Was the welt on his butt or his back? Was it the size of a quarter? A golfball? Something larger? Once he left the WWE and the welt was finally lanced and squeezed, did the pus hit the ceiling or only Brooks’s neck? At one point, when asked why he described the welt as being "on" his body instead of "in" it, an exasperated Brooks responded, "because it sounds a lot better than repeating the words ‘baseball in my butt.’ " It was humiliating and exhausting.
+
+Brooks won the suit in June 2018, but it cost him his friendship with Cabana. His marriage took a blow as well. The couple were newlyweds when the lawsuit hit, and the mental strain led to arguments propelled by Brooks’s "misdirected anger." "Physically, mentally, I was just shot, and I was shot because of that trial," he admitted on former WWE personality Renee Paquette’s podcast.
+las vegas, nv january 03 phil cm punk brooks r with wife aj lee l attends ufc 182 event at the mgm grand garden arena on january 3, 2015 in las vegas, nevada photo by jeff bottarizuffa llczuffa llc via getty images
+Phil Brooks, aka CM Punk, with his wife, AJ Lee, at the UFC 182 event at the MGM Grand Garden Arena on January 3, 2015 in Las Vegas.
+Jeff Bottari
+Advertisement - Continue Reading Below
+
+While the defamation suit moved toward court, Brooks went all in on mixed martial arts, signing with the UFC in 2014 and moving to Milwaukee to train for a year under Duke Roufus, a storied kickboxer and MMA coach. His first fight, in September 2016, ended in two minutes. His second, held the same week as the defamation suit in June 2018, lasted three five-minute rounds. They were both losses. He’d always hoped to fight in the Octagon before he got too old, he told Paquette, but "goddammit, it turns out I was too old."
+
+Just before his final fight with the UFC, Brooks declared once again, "I’m done, I’m done, I’m done" with professional wrestling. "A lot of people like to be mad at me about that," he told TSN’s Aaron Bronsteter, "but you do not own me and I am entitled to do what I want to do."
+
+What he wanted to do was everything. He went to so many Blackhawks games the year they won the Stanley Cup that he was basically a team mascot. He cohosted the Cubs’ World Series parade TV coverage alongside John Cusack. His gift on the mic led to commentary gigs for Cage Fury Fighting Championships; Ultimate Beastmaster, a competition show on Netflix; and briefly a Fox Sports show about the WWE, Backstage. He got offers to write comics for Marvel and to act in horror movies. As a kid who grew up loving both, he accepted. For Marvel, he cowrote a run of comics about Drax, the character popularized by former wrestler Dave Bautista in the Guardians of the Galaxy movies. In his comics, Drax is abandoned by the other Guardians and has to find something new. Brooks’s first acting job was as the lead in an indie horror film, Girl on the Third Floor. Now he’s guest-starring on Heels, a wrestling drama on Starz starring Arrow actor (and occasional wrestler) Stephen Amell.
+
+At thirty-five, Phil Brooks walked away from the only life he’d ever known into a world he barely did. Being able to do anything—including, and maybe especially, failing—protected him from repeating the worst mistake of his wrestling career: loving it too much. "I don’t want to focus 100 percent of my energy on any one thing, if it’s not my wife and my dog, because what I’ve learned is you will burn the fuck out," he tells me. He stops again and thinks. "If I focus on any one thing as crazy as I focused on wrestling before, I’ll fucking expire."
+Advertisement - Continue Reading Below
+
+Phil Brooks was done with wrestling.
+
+Until.
+
+Shahid Khan has made billions selling bumpers.
+
+His company, Flex-N-Gate, supplies car parts to nearly every major car manufacturer in a volume large enough that Khan has used his vast fortune to buy the Jacksonville Jaguars and Fulham F. C., an English soccer team. He has a yacht with its own Wikipedia entry. His son Tony helps run the sports clubs. Tony has been a wrestling fan his entire life. In late 2018, Khan reached out to Nick and Matt Jackson, two of the wrestlers who’d become big in Japan, with an idea: Let’s start a promotion that could rival the WWE. Nick didn’t buy it. "I had heard this story before," he told the TalkSport podcast. But Khan was persistent, and eventually he met up with the Jackson brothers, who wrestle as the tag team the Young Bucks, when they were performing in London. He picked them up in a limo and took them to Fulham’s stadium, Craven Cottage. "Maybe we can fill this thing up one day," he told them.
+
+The Young Bucks signed on as executive vice-presidents. So did Kenny Omega and Cody Rhodes. The formation of All Elite Wrestling, or AEW, was announced on January 1, 2019. Khan would be the moneyman, Tony the president and CEO. Ten months later, AEW’s Dynamite premiered on TNT.
+
+Dynamite was the first time wrestling had aired on the Turner networks since the WWE bought WCW in 2001. Its debut episode pulled in more than 1.4 million viewers. The WWE attempted to counterprogram by moving its developmental league, NXT, from the company’s streaming network to Wednesday nights on USA, opposite Dynamite, and resoundingly lost that ratings battle. (NXT moved to Tuesdays in early spring of 2021.) Featuring younger wrestlers and showcasing a faster-paced, more modern style than the WWE, as well as offering its talent more freedom outside the ring and a much less rigorous schedule within it, AEW was proving itself harder to kill than any other wrestling start-up that had come before.
+chicago, il june 09 cm punk fights in the first round in his welterweight bout against mike jackson during the ufc 225 whittaker v romero 2 event at the united center on june 9, 2018 in chicago, illinois jackson won by unanimous decision photo by dylan buellgetty images
+Phil Brooks, aka CM Punk, fights in the first round in his welterweight bout against Mike Jackson during the UFC 225 at the United Center on June 9, 2018 in Chicago. Jackson won by unanimous decision.
+Dylan Buell
+Advertisement - Continue Reading Below
+
+Phil Brooks was watching.
+
+Khan had pitched Brooks on AEW in 2018, when the two met for coffee at a Chicago Starbucks the day after Christmas. Brooks wasn’t interested. "He made it pretty clear that he’d seen and heard a lot of start-up ideas come through the woodwork over the years and many of them hadn’t really come to fruition," Khan recalls.
+
+Once Dynamite debuted, Brooks started texting Khan about matches he liked, an interview segment he thought worked well, newer wrestlers who stood out to him. In the first couple years after he left the WWE, Brooks never talked about wrestling with his friends. But after AEW’s debut, his friend Lou D’Angeli noticed a change: It wasn’t just that Brooks was talking about wrestling but the way he was doing it. "He was listing all the guys he wanted to work with," D’Angeli remembers. "Not only did he find his passion but he found a way: Here’s my path, here’s who I can work with, here’s who I can help."
+
+"The seven years he spent getting married, adopting a miniature werewolf, writing comics, cage fighting, and starring in horror movies were all part of him finding his way back to healthy," says his friend Nora Flanagan. "And once he did that, he could find his way back to wrestling."
+
+It can take a while to realize the path you were on was the right one at the wrong time. That the thing you loved then is still the thing you love now, and that it’s still there, waiting for you. For Brooks, the thing he missed the most wasn’t the matches, the arenas, or even the fans. It was the family. He missed being in a car with a friend, driving from town to town. He missed the way all the wrestlers and the crew would come together from across the country for tapings every week, falling into an easy rapport in the locker room. In the old-school language of wrestlers, to be a part of the locker room is to be a "good brother," and that camaraderie, that family, is what he missed.
+
+Brooks’s conversations with Khan picked up intensity in early 2020. Their texts moved from discussing the highs and lows of AEW’s weekly shows to floating the possibility that it was time for CM Punk to return to wrestling. Then the pandemic hit.
+Advertisement - Continue Reading Below
+
+The fans, whose energy is a core element of wrestling’s excitement, were gone. A debut as impactful as CM Punk’s return wasn’t going to happen when there were no fans to lose their minds.
+
+As everyone did in 2020, Khan and Brooks waited.
+
+In July 2021, full-capacity crowds returned, and for the first time since March 2020, AEW started touring again, putting on shows in arenas around the country. The conversation between Khan and Brooks quickly changed. "It went from being a possibility that we could do something when the fans came back to being a reality that the fans were back," Khan remembers.
+
+There were details to work out. Brooks wanted to continue to pursue his many other interests—even now he wasn’t going to 100 percent love any one thing anymore—but the biggest one was Brooks’s vision for his return: He wanted to come back to wrestling at the United Center, the home of the Chicago Bulls and his beloved Blackhawks. "I’m not a religious guy, but it’s like church to me," he says. "That and Wrigley Field—those are my cathedrals."
+chicago, il march 30 former wwe wrestler cm punk reacts after shooting the puck in between periods of the nhl game between the los angeles kings and the chicago blackhawks at the united center on march 30, 2015 in chicago, illinois photo by bill smithnhli via getty images
+Phil Brooks, aka CM Punk, at the United Center on March 30, 2015 in Chicago during a Blackhawks game.
+Bill Smith
+Advertisement - Continue Reading Below
+
+Wrestling rarely happens at the United Center. It’s huge—it seats thousands more than other arenas in the area—it’s expensive, and because it’s home to two major sports teams, it’s booked most of the time. But it had an opening on Friday, August 20, which happened to be the same day the second episode of AEW’s new Friday-night show, Rampage, aired. Everything seemed to line up. It was time.
+August 20, 2021
+
+Phil Brooks is anxious. Inside the cavernous backstage area of Chicago’s United Center, he can’t stop moving. He paces. He stretches. He knows he should eat, but he can’t. He wanders the halls, past the Blackhawks’ Zambonis. He’s been back here before, so many times, to go out on the ice for celebrity shoot-the-puck. It all feels familiar—being backstage before a wrestling show, the buzz and the activity—and also unfamiliar, because it has not been his life for so long now. How long? Years. Feels like a lifetime. He tries to think about what he’s going to say, how he is going to cut the most important promo of his life, but mostly he wants to feed off the crowd. He hopes they give him something to feed off of. He should eat. He can’t eat.
+
+This is the night CM Punk returns to wrestling. The news won’t be official until 10:00 p.m. Eastern, when Rampage goes live, but AEW has been laying down thick-enough hints that the United Center sold out on the hope that he’d show. Over the next few months, he’ll become a regular on the league’s weekly programming, mixing it up in the ring and on the mic with many of the young up-and-comers on the AEW roster. He’ll bleed on pay-per-view brawler Eddie Kingston and align with wrestling legend Sting and brooding young talent Darby Allin to fight AEW’s top heel, the smug MJF, who makes his ring entrances draped in Bur berry. But right now, for just a few more moments, he is still Phil Brooks, a civilian.
+
+He moves toward the entrance tunnel, into the dark, curtained area that wrestlers call the "Gorilla position," after legendary play-by-play man Gorilla Monsoon. He has his small group of friends with him, there in the dark, just a thick curtain between him and the thing he said he’d never go back to.
+
+He breathes deep.
+
+He stretches his back for the thousandth time.
+
+He should have eaten.
+
+He gets the cue.
+
+He hugs his friends, there where it is still dark and quiet.
+
+The first licks of the buzz-saw guitar that kicks off Living Colour’s "Cult of Personality"—his entrance music for almost two decades—hit the PA. Then you can’t hear it anymore. His friend Lou, who’s worked backstage production for years, thinks something has gone wrong, that the music has cut out. But that isn’t it: The crowd is so loud it overpowers the massive speakers of the United Center.
+
+It is an eruption. Every single person in the arena has paid to see this, has expected this, and yet it is still a surprise. A surprise they’ve waited seven years for. A wish they didn’t think would ever come true. The camera catches people in the audience crying, tears streaking down their masks.
+
+
+A Colorado Springs man will make his initial appearance in federal court today on charges that he attempted to transmit classified National Defense Information (NDI) to a representative of a foreign government.
+
+Jareh Sebastian Dalke, 30, was an employee of the National Security Agency (NSA) where he served as an Information Systems Security Designer from June 6, 2022, to July 1, 2022. According to the affidavit in support of the criminal complaint, between August and September 2022, Dalke used an encrypted email account to transmit excerpts of three classified documents he had obtained during his employment to an individual Dalke believed to be working for a foreign government. In actuality, that person was an undercover FBI agent. Dalke subsequently arranged to transfer additional classified information in his possession to the undercover FBI agent at a location in Denver, Colorado. The FBI arrested Dalke on Sept. 28, after Dalke arrived at the specified location.
+
+According to the affidavit in support of the criminal complaint, Dalke began communicating on or about July 29, 2022, via encrypted email with an individual he believed to be associated with a foreign government. Dalke told that individual that he had taken highly sensitive information relating to foreign targeting of U.S. systems and information on U.S. cyber operations, among other topics. Dalke represented to the undercover FBI agent that he was still employed by the U.S. government but said he was on a temporary assignment at a field location. Dalke requested compensation via a specific type of cryptocurrency in exchange for the information he possessed and stated that he was in financial need.
+
+To prove he had access to sensitive information, Dalke transmitted excerpts of three classified documents to the undercover FBI agent. Each excerpt contained classification markings. One excerpt was classified at the Secret level, and two excerpts were classified at the Top Secret level. In return for this information, the FBI undercover agent provided the requested cryptocurrency to an address Dalke provided.
+
+On or about Aug. 26, 2022, Dalke requested $85,000 in return for additional information in his possession. Dalke also told the FBI undercover agent that he would share additional information in the future, once he returned to the Washington, D.C., area. Although he was not employed by the NSA while communicating with the FBI, Dalke re-applied to the NSA in August 2022.
+
+Dalke agreed to transmit additional information using a secure connection set up by the FBI at a public location in Denver. On Sept. 28, at that location, the FBI arrested Dalke based on a signed criminal complaint.
+
+Dalke is charged by criminal complaint alleging three violations of the Espionage Act, which makes it a crime to transmit or attempt to transmit NDI to a representative of a foreign nation with intent or reason to believe that information could be used to the injury of the United States or to the advantage of a foreign nation. The Espionage Act carries a potential sentence of death or any term of years up to life.
+
+Assistant Attorney General Matthew G. Olsen of the Justice Department’s National Security Division; U.S. Attorney Cole Finegan for the District of Colorado; Assistant Director Alan E. Kohler Jr. of the FBI’s Counterintelligence Division; Assistant Director in Charge Steven M. D’Antuono of the FBI Washington Field Office and Acting Special Agent in Charge Cheryl Mimura of the FBI Denver Field Office made the announcement.
+
+Assistant U.S. Attorneys Julia K. Martinez and Jena R. Neuscheler for the District of Colorado, and Trial Attorneys Christina A. Clark and Adam L. Small of the National Security Division’s Counterintelligence and Export Control Section are prosecuting on behalf of the government. The case is being investigated by the FBI Denver Field Office and the FBI Washington Field Office.
+
+A criminal complaint is merely an allegation, and all defendants are presumed innocent until proven guilty beyond a reasonable doubt in a court of law.
+
+ Meta Platforms Inc. Chief Executive Officer Mark Zuckerberg outlined sweeping plans to reorganize teams and reduce headcount for the first time ever, calling an end to an era of rapid growth at the social media giant.
+
+In what would be the first major budget cut since the founding of Facebook in 2004, Zuckerberg said the company will freeze hiring and restructure some teams to trim expenses and realign priorities. Meta will likely be smaller in 2023 than it was this year, he said.
+
+He announced the freeze during a weekly Q&A session with employees, according to a person in attendance. He added that the company would reduce budgets across most teams, even those that are growing, and that individual teams will sort out how to handle headcount changes. That could mean not filling roles that employees depart, shifting people to other teams, or working to "manage out people who aren't succeeding," according to remarks reviewed by Bloomberg.
+
+"I had hoped the economy would have more clearly stabilized by now," Zuckerberg said. "But from what we're seeing it doesn't yet seem like it has, so we want to plan somewhat conservatively." A Meta spokesperson declined to comment.
+
+Meta stock, which was already trading down to start the day, fell further on the news, down 3.7% from Wednesday’s close. The shares have fallen 60% so far this year.
+
+The further cost cuts and hiring freeze are Meta’s starkest admission that advertising revenue growth is slowing amid mounting competition for users' attention. It’s not an ideal time to be cutting; besides economic pressures, the company’s advertising business, built on precise consumer targeting, has lost some of its edge due to new privacy restrictions from Apple Inc. on tracking iPhone users. TikTok is attracting  younger users away from Instagram. And Zuckerberg is making an expensive bet on the metaverse, an immersive virtual reality future where he imagines people will eventually communicate, an effort he has said will lose money for many years.
+
+Meta said earlier this year that it was planning to slow hiring for some management roles, and had postponed handing out full-time jobs to summer interns.  The freeze announced Thursday was necessary because "we want to make sure we're not adding people to teams where we don't expect to have roles next year," Zuckerberg explained in the meeting.
+
+Zuckerberg had warned in July that that Meta would "steadily reduce headcount growth," and that "many teams are going to shrink so we can shift energy to other areas." Priorities internally include Reels, Meta’s TikTok competitor, and Zuckerberg’s metaverse. Meta had more than 83,500 employees as of June 30, and added 5,700 new hires in the second quarter.
+
+Zuckerberg said Thursday that the company would be "somewhat smaller" by the end of 2023. "For the first 18 years of the company, we basically grew quickly basically every year, and then more recently our revenue has been flat to slightly down for the first time," he told staff.
+
+During its first-quarter earnings call, Meta  said annual expenses would be roughly $3 billion lower than initially projected, trimming an estimated range that had been as high as $95 billion.  In prior moves to reduce spending, a dual-camera watch the company was building to compete with the Apple Watch was shuttered.
+
+Meta is not the only advertising-reliant company to be hit by broader economic challenges. Twitter Inc. enacted its own hiring freeze in May, and has been asking employees to watch their expenses and reduce travel and marketing costs. Alphabet Inc.’s Google, too, said that it would slow hiring during the back half of the year, and Snap Inc. cut 20% of its workforce in August. 
+
+The journalist Celia Walden recently wrote about taking a six-week marriage sabbatical – "as in, six weeks away from my husband and marriage". In a post-Covid context, there are probably many couples who could do with a breather, but six weeks seems a little extreme. Where would you go for six whole weeks? Would you have to stay in a hotel? But once you know she is married to Piers Morgan, the real mystery is why take a sabbatical at all when you could be sending out CVs.
+
+Walden traced the marriage sabbatical way back, and across the Atlantic: Americans have this longstanding habit of the wife going out of town for the summer, and the husband staying home to work and have an affair, hence the Seven Year Itch. My mother used to say that the happiest marriages were those where one person was in the navy because then you were off-shift longer than you were on. I have since met a few naval couples and they were uniformly miserable, but that is another story. These models from the past don’t meet the criteria because if one person is still looking after the kids, it is really only a sabbatical for the other.
+Advertisement
+
+In fact, the term was coined in the book The Marriage Sabbatical: the Journey that Brings You Home, written by Cheryl Jarvis in 1999. Jarvis, who lives in St Louis, Missouri, conceived it very much in the style of the workplace sabbatical – taken to pursue a dream of your own. "It was very much connected to women’s dreams, something that they wanted to achieve that was personally meaningful to them. For many women, it was just something that they couldn’t do in their home town. You can open a bakery in your home town, but you can’t hike the Appalachian mountains."
+
+We could argue about whether this is still true now, but it was certainly truer at the tail end of the last century, that a woman putting herself first was a disruption of the social order, almost an insult to it. The problem was not her absence from the home – "A woman could say: ‘I’m going to go be with my sick mother,’" says Jarvis, "and nobody said anything – she was a wonderful woman." But not if there was a change in her priorities: "When she wanted to do something for herself, it was perceived very differently, that she was selfish."
+
+When it was published, the book was controversial, seen as a threat to family values. "Which was surprising to me," Jarvis says, deadpan, "because I have led quite a traditional life." People assumed that it meant space to have an affair, and would inevitably end in chaos. "The irony to me was that not a single woman I interviewed had that in her consciousness. The idea for every one of them was to have no one in her life." Realistically, distance is not the critical factor with fidelity. "You can have an affair with a guy in your office," Jarvis points out.
+Celia Walden and Piers Morgan at the GQ Men of the Year Awards, September 2021.
+Celia Walden and Piers Morgan at the GQ Men of the Year Awards, September 2021. Photograph: Richard Young/Shutterstock
+Advertisement
+
+Quite a lot has changed about marriage in the years since: people are marrying later, in their 30s, and may perceive the constant togetherness as a sacrifice, having got used to more time alone. The financial power balance within the household has changed, too, so it could easily revolve around the wife’s work, with the husband feeling that his dreams have been flattened under its juggernaut. "Sabbaticals were equally necessary for both men and women," Jarvis says. "The only reason I wrote the book for women is that it’s harder for women to give themselves permission to leave." Perhaps that has changed.
+
+What has not changed is the hormonal angle, which puts straight couples out of whack just when they have been together long enough to get really irked. Jarvis cites the anthropologist Helen Fisher, who contends: "As men age, their testosterone drops, which leads to them gravitating towards home. Women, as they age, oestrogen drops and that masks testosterone, so suddenly they become more adventurous."
+
+What if you don’t have a dream or a project – what if you don’t care about hiking, and your only goal is getting away from your spouse? Is that what they call a red flag? Is the sabbatical just a waiting room for divorce? Silva Neves, a relationship psychotherapist, is cautious of the whole "red-flag" concept, which is very generation X. "They [he means those of us who are generation X] are clinging on to these traditional myths: if people sleep in different beds, that means there’s something wrong. You have to always be together, attend all events together, or there’s something wrong. If somebody is enjoying someone else’s attractiveness, that means there’s something wrong. They really battle with these traditional ideas, trying to make them true when they are not."
+
+Younger people are much more fluid "with the language of relationships. They are more able to challenge ideas like monogamy, they have different ideas of diversity, different set-ups," says Neves. He adds: "It’s important to have really clear boundaries: it’s not an excuse to meet a stranger in a bar. Often that’s really where the anxiety is coming from."
+
+In every couple, each person has a sense of interdependence and a desire to stand on their own two feet and do their own thing, but those competing ideas will rarely be exactly the same for both people, nor will they stay constant for either person. There is also a ratchet effect over time, says Neves: "You put a lot of your sense of security and safety on to the other person, and then the demands get higher and higher." A sabbatical helps to reset that.
+Advertisement
+
+A trial separation is a different thing entirely, but if it ends with you back together, then it becomes a sabbatical retroactively. When Rebecca, 38, from Sheffield, and Lee, 40, parted four years ago, they had been together a long time – they met when she was 16 and he was 18. "We were both quite bad at letting things go. We were that couple who argues about the same things over and over again. Things he’d done 10 years before were still annoying me," says Rebecca.
+
+She started to change her mind about the split when Lee moved to a different city. "I thought: ‘Oh, you’re a really long way away, and I don’t like that,’" she recalls. Rebecca doesn’t know when Lee began to change his mind, "in that way that you don’t want to show your hand too soon, if the other person’s not on the same page". I’m sure there’s a saying about all this, something about absence and hearts and fondness.
+
+Four weeks later, they began marriage counselling, and after eight weeks, they were back in the same house. They went on to renew their vows in a DIY ceremony at the local miners’ welfare club. "I think it was an important episode and I’m not sorry about it," Rebecca says. "Maybe if you do that and you learn that you want more space, that’s equally valid. But I got the space and learned that I didn’t want it."
+
+The struggle is real: sometimes, in a marriage, you just hate each other. Terrence Real, a family therapist and most recently the author of Us, made this striking observation in an interview with the New York Times: "I’ve run around the country for 20 years, talking about what I call ‘normal marital hatred’, and not one person has ever come backstage to ask what I mean by that."
+
+Drilling into the accretion of resentments in a marriage, the therapist Robin Shohet (quoted in Marina Cantacuzino’s wonderful book Forgiveness) held some sessions with groups of couples. "There was much laughter at these workshops as we recognised that we were all ‘at it’ in gross or subtle ways – gossiping, put-downs, ‘forgetting’, being late, not doing the dishes, sulking, withholding, refusing to acknowledge someone, envy, infidelity, being a failure, being a success even. None of these in themselves is necessarily vengeful, but all could be seen through the eyes of revenge."
+The Seven Year Itch … Billy Wilder’s 1955 romcom about a happily married man (Tom Ewell) whose eye is caught by a neighbour (Marilyn Monroe) while his wife and son are away for the summer.
+The Seven Year Itch … Billy Wilder’s 1955 romcom about a happily married man (Tom Ewell) whose eye is caught by a neighbour (Marilyn Monroe) while his wife and son are away for the summer. Photograph: 20 Century Fox/Allstar
+Advertisement
+
+The problem with intimate relationships, marriages at the apex, is that resentments can be constantly replenished. A core component of forgiveness is to get some distance from the event, but how do you manage that when, pattern-finding species that we are, there is always a fresh event to remind you of the last?
+
+We can’t talk about marriage sabbaticals without mentioning the ones you need because you are sick of each other. If you take Jarvis’s original conception, which was about creating a generative, introspective space that you come back from bringing a truer, happier self to the marriage, this is its opposite – getting out of Dodge, in the hope that the shock and drama might remind you of what you once saw in Dodge.
+
+The social conception of marriage will allow that "no one size fits all" and all relationships are idiosyncratic. But there is an expectation beneath this that trumps the cliche with a platitude: that marriage should exist in a state of harmony, or it’s not a real marriage. This was tested quite severely by the pandemic. "Lockdown really showed the importance of space in relationships," Jarvis says. "Couples were spending so much more time together than they normally did, and a marriage sabbatical in a post-Covid landscape is easier to digest."
+
+There was also a powerful social pressure to pretend that lockdowns had improved your relationship, that inescapable physical intimacy had led to greater emotional intimacy. The acceptable narratives around that time were of longstanding couples who were suddenly having sex in the afternoons again, new couples who had taken something fragile and nurtured it into solidity.
+
+This disconnect between the cliche, that we are all allowed to be different, and the platitude, that all marriages are states of harmony unless they are over, creates narrow tramlines, in which you either knuckle down or get a divorce. A number of law firms have reported soaring divorce inquiries, and the Courts and Tribunals Service recorded a sudden spike in applications after "no-fault divorce" was introduced earlier this year in England and Wales. I am agnostic about divorce rates and would never say, what a crying shame that at least some of those people didn’t try a sabbatical first and see if that improved things. It is possible that more people should get divorced if they could afford to.
+
+Which brings us to the brute reality that the marriage sabbatical was only ever an option for the affluent or, at a push, the very hardy and retired, who don’t mind camping and don’t need wifi. The original, throwaway question – where are you supposed to go, to a hotel? – is actually the thorniest. Heading into the coming economic crisis, never mind a sabbatical from one another, we’ll be huddling together for warmth. So this is very much a hypothetical question for the sunlit uplands.
+
+Nevertheless, it would be useful to admit the real rhythm of marriage, which is not a constant state of harmony, but rather, a cycle of harmony, disharmony and repair in constant flux. Some people’s fluxes last years, and other people’s 20 minutes. If we could let in the tiny ray of light that is the sabbatical, implicitly allowing in the unsayable fact that sometimes we would rather be apart than together, we might struggle less in trying to match the myth of marriage to its reality.
+
+… we have a small favour to ask. Tens of millions have placed their trust in the Guardian’s fearless journalism since we started publishing 200 years ago, turning to us in moments of crisis, uncertainty, solidarity and hope. More than 1.5 million supporters, from 180 countries, now power us financially – keeping us open to all, and fiercely independent.
+
+Unlike many others, the Guardian has no shareholders and no billionaire owner. Just the determination and passion to deliver high-impact global reporting, always free from commercial or political influence. Reporting like this is vital for democracy, for fairness and to demand better from the powerful.
+
+And we provide all this for free, for everyone to read. We do this because we believe in information equality. Greater numbers of people can keep track of the events shaping our world, understand their impact on people and communities, and become inspired to take meaningful action. Millions can benefit from open access to quality, truthful news, regardless of their ability to pay for it.
+
+Every contribution, however big or small, powers our journalism and sustains our future. Support the Guardian from as little as $1 – it only takes a minute. If you can, please consider supporting us with a regular amount each month. Thank you.
+
+ Humans are very preoccupied with flight. We've spent decades and billions of dollars refining air travel; we often dream about flying without the aid of technology. It's little wonder many of us find ourselves fascinated with birds, who make the act seem so effortless. So let's take a closer look at some facts behind our avian friends.  
+1. They Have a Curious Desire to Cover Themselves in Ants
+
+While we know a lot about birds, we don’t always understand their motivations. One example: "anting," or the practice of covering themselves in living or dead ants. Cardinals are prone to the practice, allowing ants to crawl around their bodies or stuffing ant corpses into their feathers. One theory is that the formic acid secreted by the insects helps rid birds of lice; ants may also help clean up dried oils left over from preening. If ants aren't handy, birds have also been known to use cigarette butts, beetles, and coffee.
+2. Some Hummingbirds Weigh Less Than a Penny
+
+Most people realize hummingbirds are pretty slight of stature: Their tiny bodies allow them to take flight quickly. While there are over 300 types of hummingbirds, the smallest species, the Bee hummingbird, weighs in at just 2 grams—.5 grams less than a U.S. penny.  
+3. Woodpeckers Peck With Purpose
+
+Contrary to what cartoons may have taught you, woodpeckers don’t drill into trees for the sole purpose of annoying humans. Acorn woodpeckers use their beaks to hollow out wood structures so they can store acorns, almonds, hazelnuts, and other sustenance.
+4. They’ll Attack Their Reflection
+
+Birds have been known to tap on residential windows. It’s not to get your attention: Many migratory birds looking to put down roots for the warmer months get territorial. When they see themselves reflected in a window, they can mistake it for a rival bird and begin pecking. Some homeowners put up anti-reflective material to prevent birds from pestering themselves.
+5. Pigeons Are Art Critics
+
+Several studies have looked at whether pigeons can differentiate between the distinct visual stimuli found in paintings. In one study, the birds were presented with "good" and "bad" children’s artwork. Positive reinforcement was used when the birds pecked at the "good" artworks and could later identify previously-unseen paintings that met a human standard for quality. Another study found that pigeons could tell a Picasso from a Monet. Researchers believe the birds can use color and pattern cues to tell two images apart. 
+6. They Can Nap in Mid-Air
+
+Some birds take very long commutes during migrating season—and like human travelers, they’re able to nap in mid-air. For a study published in Nature Communications, researchers attached a brain-wave activity sensor to frigatebirds and noted the birds spent some time asleep while "cruising" in higher air currents and altitudes.
+7. There’s a Reason Their Poop is White
+
+The creamy white splatter on your windshield is a result of a bird’s hyper-efficient waste system. Rather than have separate intestinal and urinary tracts, birds eliminate their waste from their cloaca, a catch-all orifice that allows for reproductive sex and egg-laying. The white is actually uric acid, which tinges the elimination white. The small brown center represents stool. 
+8. Bassian Thrushes Use Farts To Hunt Prey
+
+Birds may not find toots as funny as humans do, but they still make use of them. The Australian Bassian thrush farts toward the ground, with the noxious smell helping to unearth worms and other insect prey.
+9. Canyon Wrens Build Patios for Their Nests
+
+The canyon wren isn’t always satisfied with a nest made of foraged materials. Like a little home improvement host, the wren will use rocks to build a tiny, patio-like surface around the nest. Researchers aren’t entirely sure why they do this, but it may have something to do with keeping nests dry or attracting the opposite sex.
+10. They Could Be Competitive Eaters
+
+Your backyard may be home to a mini Nathan’s competitive eating contest every single day. Many species of birds chow down on an impressive number of insects, with the Baltimore oriole able to munch 17 caterpillars a minute; a house wren can pass on 500 spiders to its offspring in a single afternoon.
+11. Hummingbirds Can’t Walk
+
+There are some compromises that have to be made when you’re a bird that can fly backwards. To reduce drag, hummingbirds have very tiny and non-locomoting feet. Their legs allow them to perch and shuffle sideways a bit, but they’re not designed for long walks.
+12. Not All Beaks are Created Equal
+
+A bird’s beak will vary depending on what nature has instructed it to do. Cone-shaped beaks are perfect for cracking nuts and seeds; a hummingbird’s long bill is ideal for sipping nectar. Birds of prey often have hooked beaks that are perfect for tearing into flesh and causing fatal wounds to the neck of their next meal.
+13. Little Blue Herons Have a Built-In Grooming Comb
+
+Whether you consider the heron a backyard bird or not may depend on whether you have a pond, but if you spot one of these fish-chompers, try to take note of their middle toe: it has a serrated edge to it that the heron uses to groom and scratch itself.
+14. Crows Can Recognize Faces
+
+If you think your local murder of crows is out to get you, it may not be paranoia. Research conducted at the University of Washington in 2008 demonstrated that the bird is able to recognize faces and hold a grudge when provoked. In the study, scientists donned a caveman mask and then trapped crows (humanely, of course) before banding and setting them free. When the researchers walked the campus in the mask, the crows circled and vocally scolded their suspected captor.
+15. Killdeer Fake Injuries to Fool Predators
+
+The killdeer, which is found across North America, is the avian equivalent of a scam artist in a neck brace. The species will feign being injured or crippled in order to lure predators toward them and away from their nest of offspring. When the predator gets close enough, the killdeer miraculously "recovers" and beats a hasty retreat.
+16. Blue Jays are Helping Restore Oak Trees
+
+The vibrant blue birds are so fond of burying acorns and other nuts that the species is being credited with an uptick of oak trees sprouting in North America. When they’re not busy being conservationists, they don’t mind if you leave a few peanuts out: They can crack the shell by holding it steady with their feet.
+17. Northern Cardinals are Early Risers
+
+These bright red birds don’t let much of the day go to waste: People with residential bird feeders report that the northern cardinal is the first bird up in the morning and one of the last to disappear at night. They rarely get the worm, though: These birds prefer seeds.
+18. There’s a Reason They Don’t Fall Off Branches While Sleeping
+
+Most birds not only sleep standing up, they do it while perched on a thin tree branch. Why don’t they fall off? The flexor tendons in their legs make an involuntary contraction when they settle in, keeping their feet locked in place during sleep.
+19. Blue Jays Can Mimic The Sound of a Hawk
+
+The vocal ability of birds is renowned, particularly the elocution of parrots. But the more pervasive blue jay has a pretty good parlor trick: It can mimic the sound of a red-shouldered hawk. In addition to terrifying humans, the noise may help to scare off fretful birds from their territory.
+20. Blue Jays Aren’t Actually Blue
+
+Their name is a bit of a misnomer. A blue jay’s feathers are actually brown. But thanks to light scattering, jays and other blue-tinged birds will give off the appearance of being bolder in color. Blue light doesn’t pass through the structure of the feather—it’s reflected. It only works one way, though, so if you turn a feather around, you’ll see its natural brown color.
+21. Robins Have a Sweet Tooth
+
+Worms make up the majority of their diet, but robins don’t mind if you leave out a dessert tray. The birds are partial to pastry dough, fruit cake, and coconut cake.
+22. They Know How to Cool Off
+
+In warmer climates, birds beat the heat by spreading their wings and allowing for better air circulation. They’ll also flutter their neck muscles—called gular fluttering—to expel body heat.
+23. Some of Them Use Tools
+
+In a sure sign that Birdemic may one day be considered a documentary, some species of birds have been shown to use tools in order to make their lives easier. In North America, the brown-headed nuthatch will take a piece of tree bark and use it to pry off other bark in search of insects. American robins will use twigs to sweep aside leaves for the same purpose.
+24. Hummingbirds are Always Starving
+
+With fierce metabolisms brought on by constant movement, hummingbirds are always in search of nourishment—they require so much of it, in fact, that they’re perpetually a few hours away from starving to death. Ruby-throated hummingbirds will eat up to three times their body weight a day.  
+25. They’ll Never be Movie Stars
+
+American migratory bird species are hardly ever depicted in movies thanks to the Migratory Bird Treaty Act that prevents domestic birds from being bought or sold for commercial purposes. If you spot a backyard bird in film or on a show, it’s either an imported species or a computer effect. To see a jaybird, you’ll have to turn off the TV and look out a window. 
+
+This article is the second of a series in which I will cover the whole process of developing a machine learning project. If you have not read the first one, I strongly encourage you to do it here.
+
+The project involves the creation of a real-time web application that gathers data from several newspapers and shows a summary of the different topics that are being discussed in the news articles.
+
+This is achieved with a supervised machine learning classification model that is able to predict the category of a given news article, a web scraping method that gets the latest news from the newspapers, and an interactive web application that shows the obtained results to the user.
+
+As I explained in the first post of this series, the motivation behind writing these articles is that a lot of the articles or content published on the internet, books or literature regarding data science and machine learning models focus on the modelling part with the training data. However, a machine learning project is much more than that: once you have a trained model, you need to feed new data to it and what is more important, you need to provide useful insights to the final user.
+
+The whole process is divided in three different posts:
+
+    Classification model training (link)
+    News articles web scraping (this post)
+    App creation and deployment (link)
+
+The github repo can be found here. It includes all the code and a complete report.
+
+In the first article, we developed the text classification model in Python, which allowed us to get a certain news article text and predict its category with an overall good accuracy.
+
+This post covers the second part: News articles web scraping. We’ll create a script that scrapes the latest news articles from different newspapers and stores the text, which will be fed into the model afterwards to get a prediction of its category. We’ll cover it in the following steps:
+
+    A brief introduction to webpages and HTML
+    Web scraping with BeautifulSoup in Python
+
+1. A brief introduction to webpage design and HTML
+
+If we want to be able to extract news articles (or, in fact, any other kind of text) from a website, the first step is to know how a website works. We will follow an example with the Towards Data Science webpage.
+
+When we insert an url into the web browser (i.e. Google Chrome, Firefox, etc…) and access to it, what we see is the combination of three technologies:
+
+    HTML (HyperText Markup Language): it is the standard language for adding content to a website. It allows us to insert text, images and other things to our site. In one word, HTML determines the content of a webpage.
+    CSS (Cascading Style Sheets): this language allows us to set the visual design of a website. This means, it determines the style of a webpage.
+    JavaScript: JavaScript allows us to make the content and the style interactive.
+
+Note that these three are programming languages. They will allow us to create and manipulate every aspect of the design of a webpage.
+
+However, if we want a website to be accessible to every one in a browser, we need to know about additional things: standing up a web server, using a certain domain, etc… But since we are only interested in extracting content from a webpage, this will be enough for today.
+
+Let’s illustrate these concepts with an example. When we visit the Towards Data Science homepage, we see the following:
+
+If we deleted the CSS content from the webpage, we would see something like this:
+
+And if we disabled JavaScript, we would not be able to use this pop-up no more:
+
+At this point, I’ll ask the following question:
+
+    "If I want to extract the content of a webpage via web scraping, where do I need to look up?"
+
+If your answer was the HTML code, then you’re absolutely getting it. In the above example we can see that after disabling CSS, the content (text, images, etc…) is still there.
+
+So, the last step before performing web scraping methods is to understand a bit of the HTML language.
+
+HTML is, from a really basic point of view, composed of elements that have attributes. An element could be a paragraph, and an attribute could be that the paragraph is in bold letter.
+
+There are a lot of different types of elements, each one with its own attributes. To identify an element (this means, as an example, to set if some text is a heading or a paragraph) we use tags. These tags are represented with the <> symbols (for example, a <p> tag means a certain text is acting as a paragraph).
+
+For example, this HTML code below allows us to change the alignment of the paragraphs:
+
+Consequently, when we visit a website, we will be able to find the content and its properties in the HTML code.
+
+Once we have presented these concepts, we are ready for some web scraping!
+2. Web scraping with BeautifulSoup in Python
+
+There are several packages in Python that allow us to scrape information from webpages. One of the most common ones is BeautifulSoup. The official package information can be found here.
+
+BeautifulSoup allows us to parse the HTML content of a given URL and access its elements by identifying them with their tags and attributes. For this reason, we will use it to extract certain pieces of text from the websites.
+
+It is an extremely easy-to-use yet powerful package. With almost 3–5 lines of code we will be able to extract any text we want from the internet.
+
+To install it, please type the following code into your Python distribution:
+
+! pip install beautifulsoup4
+
+So as to provide BeautifulSoup with the HTML code of any page, we will also need to import the requests module. In order to install it if it's not already included in your python distribution, please type:
+
+! pip install requests
+
+We will use the requests module to get the HTML code from the page and then navigate through it with the BeautifulSoup package. We will learn to use two commands that will be enough for our task:
+
+    find_all(element tag, attribute): it allows us to locate any HTML element from a webpage introducing its tag and attributes. This command will locate all the elements of the same type. In order to get only the first one, we can use find() instead.
+    get_text(): once we have located a given element, this command will allow us to extract the text inside.
+
+So, at this point, what we need to do is to navigate through the HTML code of our webpage (for example, in Google Chrome we need to enter the webpage, press right click button and go to See source code) and locate the elements we want to scrape. We can simply do this searching with Ctrl+F or Cmd+F once we are seeing the source code.
+
+Once we have identified the elements of interest, we will get the HTML code with the requests module and extract those elements with BeautifulSoup.
+
+We will carry out an example with the El Pais English newspaper. We will first try to web scrape the news articles titles from the frontpage and then extract the text out of them.
+
+Once we enter the website, we need to inspect the HTML code to locate the news articles. After a fast look we can see that each article in the frontpage is an element like this:
+
+The title is an <h2> (heading-2) element with itemprop="headline" and class="articulo-titulo" atributes. It has an <a> element with an href attribute which contains the text. So, in order to extract the text, we need to code the following commands:
+
+With the requests module we can get the HTML content and save into the coverpage variable:
+
+Next, we need to create a soup in order to allow BeautifulSoup to work:
+
+And finally, we can locate the elements we are looking for:
+
+This will return a list in which each element is a news article (because with find_all we are getting all ocurrences):
+
+If we code the following command, we will be able to extract the text:
+
+If we want to access the value of an attribute (in this case, the link), we can type the following:
+
+And we’ll get the link in plain text.
+
+If you have understood until this point, you are ready to web scrape any content you want.
+
+The next step would be to access each of the news articles content with the href attribute, get the source code again and find the paragraphs in the HTML code to finally get them with BeautifulSoup. It’s the same idea as before, but we need to locate the tags and attributes that identify the news article content.
+
+The code of the full process is the following. I will show the code but won’t enter in the same detail as before since it’s exactly the same idea.
+
+All the details can be found in my github repo.
+
+It is important to mention that this code is only useful for this webpage in particular. If we want to scrape another one, we should expect that elements are identified with different tags and attributes. But once we know how to identify them, the process is exactly the same.
+
+At this point, we are able to extract the content of different news articles. The final step is to apply the machine learning model we trained in the first post to predict its categories and show a summary to the user. This will be covered in the final post of this series.
