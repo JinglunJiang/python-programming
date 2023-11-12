@@ -1,0 +1,136 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+/* GENERAL */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f2f2f2;
+}
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+h3 {
+  color: #333;
+  margin-top: 20px;
+}
+
+form {
+  margin-top: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  transition: border-color 0.3s ease-in-out;
+}
+
+input:focus {
+  border-color: #4caf50;
+}
+
+button {
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  padding: 12px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #1b4f1d;
+}
+
+h2 .current-signups {
+  text-align: center;
+
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background-color: #fff;
+  margin: 10px 0;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: transform 0.3s ease-in-out;
+}
+
+li:hover {
+  transform: scale(1.05);
+}
+
+button.cancel {
+  background-color: rgb(200, 65, 65);
+  color: #fff;
+  border: none;
+  padding: 12px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out;
+}
+
+button.cancel:hover {
+  background-color: rgb(109, 22, 22);
+}
+
+p.no-signups {
+  text-align: center;
+  color: #999;
+  margin-top: 20px;
+}
+
+footer {
+  height: 26vh;
+  margin: 0 1rem;
+  color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Responsive styles */
+@media screen and (max-width: 600px) {
+  .container {
+    width: 90%;
+  }
+
+  input {
+    margin-bottom: 15px;
+  }
+}

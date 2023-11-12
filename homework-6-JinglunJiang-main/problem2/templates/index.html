@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css', _external=True) }}">
+  <title>Course Sign-Up</title>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Course Sign-Up</h1>
+    <form method="POST" action="/">
+      <label for="student_name">Student Name:</label>
+      <input type="text" id="student_name" name="student_name" required>
+      <label for="course_name">Course Name:</label>
+      <input type="text" id="course_name" name="course_name" required>
+      <button type="submit">Sign Up</button>
+    </form>
+
+    {% if signups %}
+    <h3>Current Sign-Ups</h3>
+    <ul>
+      {% for signup in signups %}
+      <li>
+        {{ signup.student_name }} - {{ signup.course_name }}
+        ({{ signup.date_signed_up.strftime('%Y-%m-%d %H:%M:%S') }})
+        <form method="post" action="{{ url_for('cancel', id=signup.id) }}" style="display: inline;">
+          <button class="cancel" type="submit">Cancel</button>
+        </form>
+      </li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p class="no-signups">No sign-ups yet.</p>
+    {% endif %}
+  </div>
+</body>
+
+<footer>
+  <p>Copyright &#169; 2023 Noella Jiang. All Rights Reserved.</p>
+</footer>
+
+</html>

@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "51042-homework6"
+version = "0.1.0"
+description = ""
+authors = ["James Turk <dev@jamesturk.net>"]
+readme = "README.md"
+packages = [{include = "51042_homework6"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pytest = "^7.4.3"
+flask = "^3.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
